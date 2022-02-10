@@ -1,539 +1,539 @@
-,Relative Compactness,Roof Area,Overall Height,Orientation,Glazing Area,Glazing Area Distribution,Heating Load,Cooling Load,Location,surface_area_categories,wall_description,energxe
-223,0.71,220.5,3.5,5,0.1,4.407174601266167,10.72,14.2,Mountain,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,571.0
-285,0.62,220.5,3.5,3,0.1,3.7253915772335118,12.74,13.97,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
-350,0.82,147.0,7.0,4,0.25,1.530089721413826,25.38,26.72,Countryside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-363,0.74,220.5,3.5,5,0.25,2.007143957249388,12.3,15.44,City,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,395.0
-551,0.76,122.5,7.0,5,0.4,1.6498515002041636,40.43,39.48,Seaside,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,
-395,0.86,147.0,7.0,5,0.25,4.158053639244182,29.07,29.82,Seaside,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,213.0
-233,0.64,220.5,3.5,3,0.1,4.204239730295779,15.19,19.25,Lakeside,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-666,0.64,220.5,3.5,4,0.4,2.509557215204223,18.48,21.54,Seaside,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-758,0.66,220.5,3.5,4,0.4,3.1912137662224596,14.92,17.55,City,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-162,0.79,147.0,7.0,4,0.1,3.7391287848919,36.97,35.1,City,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,989.0
-194,0.98,110.25,7.0,4,0.1,4.837975889067607,24.04,26.18,Countryside,Very Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-377,0.64,220.5,3.5,3,0.25,3.5858075746554556,16.84,20.56,Lakeside,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
-226,0.69,220.5,3.5,4,0.1,3.7334320592561316,11.07,14.42,Mountain,High Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,467.0
-385,0.98,110.25,7.0,3,0.25,2.337283354528074,28.56,29.78,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,135.0
-216,0.74,220.5,3.5,2,0.1,3.5307600087705597,10.08,13.2,Lakeside,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
-140,0.62,220.5,3.5,2,0.1,2.7099004796056283,12.88,14.37,Countryside,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,417.0
-687,0.82,147.0,7.0,5,0.4,2.6075418486817927,29.52,28.43,City,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-520,0.64,220.5,3.5,2,0.25,4.616225319420907,16.73,20.13,City,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,523.0
-721,0.98,110.25,7.0,3,0.4,5.3129228670368045,32.72,33.23,Countryside,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-185,0.64,220.5,3.5,3,0.1,3.6434903792734277,15.36,19.18,City,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
-651,0.74,220.5,3.5,5,0.4,1.8471805205996485,13.78,16.6,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
-619,0.64,220.5,3.5,5,0.4,2.664043597135057,19.12,21.93,City,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-750,0.71,220.5,3.5,4,0.4,2.9708302693832467,12.76,15.33,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,
-656,0.69,220.5,3.5,2,0.4,1.2313974320502943,14.32,16.35,Countryside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-245,0.9,122.5,7.0,3,0.1,6.267023157646568,29.08,29.52,Lakeside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,143.0
-380,0.62,220.5,3.5,2,0.25,1.838048566993549,14.34,15.32,Countryside,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,
-664,0.64,220.5,3.5,2,0.4,0.24405751434925627,18.48,20.78,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-50,0.98,110.25,7.0,4,0.1,1.32076159090582,24.63,26.44,City,Very Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-275,0.69,220.5,3.5,5,0.1,6.756890294936714,11.16,14.39,Countryside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-221,0.71,220.5,3.5,3,0.1,4.220078579904469,10.68,14.12,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,41.0
-517,0.66,220.5,3.5,3,0.25,5.962167857916449,12.82,16.03,City,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,929.0
-87,0.66,220.5,3.5,5,0.1,1.8833831555618001,11.69,13.65,City,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-722,0.98,110.25,7.0,4,0.4,6.39039998284054,32.21,33.76,City,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-120,0.74,220.5,3.5,2,0.1,0.7893211094454298,10.42,13.39,Lakeside,Average Surface Area,The wall colour is blue and the area is 245.0 meter squared.,485.0
-202,0.86,147.0,7.0,4,0.1,4.237352023932054,26.33,31.06,City,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,153.0
-390,0.9,122.5,7.0,4,0.25,2.8203421388988303,32.68,32.83,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,429.0
-346,0.86,147.0,7.0,4,0.25,1.625761158396337,29.27,29.9,City,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-534,0.9,122.5,7.0,4,0.4,0.3214403021151685,36.66,35.92,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-321,0.69,220.5,3.5,3,0.25,-0.21243779727316192,12.93,15.63,Seaside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-507,0.74,220.5,3.5,5,0.25,3.895197583573757,12.02,14.03,Seaside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
-196,0.9,122.5,7.0,2,0.1,3.3296508918056653,29.06,29.34,City,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,99.0
-743,0.76,122.5,7.0,5,0.4,4.904252940000937,39.86,38.18,City,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
-267,0.74,220.5,3.5,5,0.1,4.431217862703258,10.39,13.5,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,957.0
-553,0.74,220.5,3.5,3,0.4,0.7568796186936319,14.61,17.25,Lakeside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
-45,0.62,220.5,3.5,3,0.0,1.0000054596980428,8.49,12.22,Lakeside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
-379,0.64,220.5,3.5,5,0.25,2.620859055972762,17.11,20.43,Seaside,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-10,0.86,147.0,7.0,4,0.0,-0.09021319258345827,19.34,23.49,Lakeside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-394,0.86,147.0,7.0,4,0.25,2.1754486208847146,29.43,28.38,City,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-444,0.82,147.0,7.0,2,0.25,4.852544425439105,25.66,26.3,City,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-698,0.74,220.5,3.5,4,0.4,4.9759746444563575,14.32,16.9,Mountain,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
-492,0.82,147.0,7.0,2,0.25,4.393936570443466,25.7,26.53,City,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-521,0.64,220.5,3.5,3,0.25,6.223332857284588,16.86,20.01,Countryside,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,123.0
-149,0.9,122.5,7.0,3,0.1,1.0107800714187547,29.01,32.85,Countryside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,179.0
-288,0.98,110.25,7.0,2,0.25,2.277142556841339,28.15,29.79,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-289,0.98,110.25,7.0,3,0.25,0.8986045986940853,28.15,29.79,City,Very Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,817.0
-135,0.66,220.5,3.5,5,0.1,3.1406990070448577,11.43,14.74,Seaside,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,687.0
-441,0.86,147.0,7.0,3,0.25,3.816986549939678,28.42,34.19,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,821.0
-493,0.82,147.0,7.0,3,0.25,5.098617170263565,25.17,26.08,Lakeside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-461,0.71,220.5,3.5,3,0.25,1.9379578485416724,12.49,15.09,Lakeside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,895.0
-635,0.86,147.0,7.0,5,0.4,3.5354770624977068,31.84,31.6,Countryside,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-756,0.66,220.5,3.5,2,0.4,6.7823077199329544,14.96,17.64,City,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-344,0.86,147.0,7.0,2,0.25,1.0253072623497266,29.34,33.37,Countryside,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-358,0.76,122.5,7.0,4,0.25,2.415394663714204,36.86,37.28,Seaside,Average Surface Area,The wall colour is red and the area is 416.5 meter squared.,307.0
-566,0.66,220.5,3.5,4,0.4,1.7610017636768638,15.23,18.14,,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-169,0.74,220.5,3.5,3,0.1,3.011056924878096,10.34,13.36,Seaside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,923.0
-653,0.71,220.5,3.5,3,0.4,2.481683011845496,14.03,15.47,City,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,
-335,0.62,220.5,3.5,5,0.25,1.5421265180258679,15.16,15.76,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,731.0
-191,0.62,220.5,3.5,5,0.1,3.7793103603862592,12.73,13.89,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,683.0
-561,0.69,220.5,3.5,3,0.4,1.718170639165323,14.7,17.0,Mountain,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-32,0.69,220.5,3.5,2,0.0,-0.941809488918664,6.85,11.74,City,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,469.0
-222,0.71,220.5,3.5,4,0.1,5.1809779363620025,10.53,13.79,Countryside,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,125.0
-49,0.98,110.25,7.0,3,0.1,-0.45511416809631333,24.63,26.37,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-538,0.86,147.0,7.0,4,0.4,2.1406311174829304,32.09,31.7,City,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-503,0.76,122.5,7.0,5,0.25,4.0417502882183225,36.7,36.15,Countryside,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,615.0
-608,0.69,220.5,3.5,2,0.4,2.2495881203723913,14.75,16.44,City,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-382,0.62,220.5,3.5,4,0.25,0.29237182745430323,14.6,15.14,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,
-7,0.9,122.5,7.0,5,0.0,0.5402972688298817,19.68,29.6,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,865.0
-114,0.79,147.0,7.0,4,0.1,1.4863251831094844,36.97,33.87,Seaside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,647.0
-127,0.71,220.5,3.5,5,0.1,4.321689053557508,10.68,14.21,Countryside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,
-58,0.86,147.0,7.0,4,0.1,-0.01358445763509053,26.37,27.03,Seaside,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-290,0.98,110.25,7.0,4,0.25,1.870885349226659,28.37,29.28,City,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-625,0.98,110.25,7.0,3,0.4,2.3677284229006963,32.69,33.24,Countryside,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-47,0.62,220.5,3.5,5,0.0,-0.15557629082208038,8.5,12.04,Seaside,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
-371,0.69,220.5,3.5,5,0.25,2.4054500334288402,12.95,15.99,Countryside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-254,0.82,147.0,7.0,4,0.1,5.48296715408082,22.89,28.88,City,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
-422,0.66,220.5,3.5,4,0.25,1.5557542030864442,12.74,16.14,Seaside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,365.0
-69,0.76,122.5,7.0,3,0.1,-1.9574322375241713,32.12,34.07,Seaside,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,763.0
-300,0.82,147.0,7.0,2,0.25,1.1424259786377315,26.84,30.17,Countryside,Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-406,0.76,122.5,7.0,4,0.25,4.373217207878296,35.64,37.28,Mountain,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,993.0
-104,0.86,147.0,7.0,2,0.1,2.840700349051381,26.48,30.91,City,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,353.0
-615,0.66,220.5,3.5,5,0.4,2.857957248386022,15.3,18.15,Lakeside,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-113,0.79,147.0,7.0,3,0.1,0.5076760045956128,37.26,34.62,City,Average Surface Area,The wall colour is violet and the area is 343.0 meter squared.,1007.0
-188,0.62,220.5,3.5,2,0.1,3.4484456697081898,12.68,14.09,Lakeside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,115.0
-352,0.79,147.0,7.0,2,0.25,2.0791524666854824,38.57,43.86,Countryside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,89.0
-746,0.74,220.5,3.5,4,0.4,4.652874189625843,14.17,16.94,City,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
-262,0.76,122.5,7.0,4,0.1,3.3284137067428703,32.46,33.64,Mountain,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
-266,0.74,220.5,3.5,4,0.1,4.534698859380272,10.34,13.72,Countryside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
-408,0.74,220.5,3.5,2,0.25,2.1505614997841977,11.8,14.49,Countryside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,175.0
-585,0.86,147.0,7.0,3,0.4,2.9160318359480586,32.74,30.53,City,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-593,0.79,147.0,7.0,3,0.4,2.0534462196218266,43.1,39.41,Countryside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-265,0.74,220.5,3.5,3,0.1,4.4657198387023955,10.37,13.44,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,445.0
-228,0.66,220.5,3.5,2,0.1,3.2033975242625687,11.44,14.86,City,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-279,0.66,220.5,3.5,5,0.1,5.062702555682912,11.34,14.87,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,293.0
-741,0.76,122.5,7.0,3,0.4,6.12954030665038,39.72,39.8,Lakeside,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
-560,0.69,220.5,3.5,2,0.4,0.799307577378922,14.51,16.5,City,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-246,0.9,122.5,7.0,4,0.1,4.248875935702237,28.03,34.45,City,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,695.0
-367,0.71,220.5,3.5,5,0.25,4.146127459906191,12.49,15.32,Lakeside,High Surface Area,The wall colour is orange and the area is 269.5 meter squared.,
-606,0.71,220.5,3.5,4,0.4,3.0692930447593887,14.4,17.27,Lakeside,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
-568,0.64,220.5,3.5,2,0.4,1.850288874569588,19.52,22.72,City,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-730,0.86,147.0,7.0,4,0.4,4.589433782255866,31.12,36.26,Countryside,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-200,0.86,147.0,7.0,2,0.1,3.561327289518832,26.44,27.17,Lakeside,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
-297,0.86,147.0,7.0,3,0.25,-1.7146726138702761,30.05,28.61,Countryside,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-495,0.82,147.0,7.0,5,0.25,6.826768421768767,25.49,28.14,Countryside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,479.0
-628,0.9,122.5,7.0,2,0.4,3.116853313132768,34.24,37.26,Seaside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-354,0.79,147.0,7.0,4,0.25,1.3257827692395825,39.97,36.77,Countryside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,667.0
-720,0.98,110.25,7.0,2,0.4,6.172220140250343,32.84,32.88,Seaside,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-93,0.62,220.5,3.5,3,0.1,1.3277413808699658,12.97,14.5,City,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
-182,0.66,220.5,3.5,4,0.1,1.0592924039045084,11.53,13.59,Lakeside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,191.0
-665,0.64,220.5,3.5,3,0.4,3.6798205476846055,18.71,20.72,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-453,0.76,122.5,7.0,3,0.25,4.413165974592203,36.45,36.76,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
-446,0.82,147.0,7.0,4,0.25,3.6059615878953006,25.43,28.76,City,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-617,0.64,220.5,3.5,3,0.4,2.155786144149602,18.88,22.07,Countryside,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-315,0.74,220.5,3.5,5,0.25,0.28958482199753477,12.45,15.5,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
-252,0.82,147.0,7.0,2,0.1,4.930737070567397,24.37,25.11,Seaside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,567.0
-678,0.9,122.5,7.0,4,0.4,3.0955375629850677,35.4,39.22,Seaside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-308,0.76,122.5,7.0,2,0.25,0.8580082506669244,36.96,36.85,Lakeside,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,411.0
-305,0.79,147.0,7.0,3,0.25,-0.6437932374916511,40.03,37.81,Countryside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,987.0
-753,0.69,220.5,3.5,3,0.4,6.305914963227403,14.28,15.87,Mountain,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-152,0.86,147.0,7.0,2,0.1,3.6205969891062892,25.41,31.73,Lakeside,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,781.0
-400,0.79,147.0,7.0,2,0.25,3.556308949137717,39.04,45.13,City,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,749.0
-632,0.86,147.0,7.0,2,0.4,2.3786662865619617,31.28,35.22,Seaside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-366,0.71,220.5,3.5,4,0.25,2.4196815231215454,12.2,14.94,Countryside,High Surface Area,The wall colour is orange and the area is 269.5 meter squared.,
-764,0.62,220.5,3.5,2,0.4,4.777225944457993,16.54,16.88,Countryside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
-577,0.98,110.25,7.0,3,0.4,2.452016344166,32.71,33.13,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
-594,0.79,147.0,7.0,4,0.4,3.732550183381959,42.74,38.84,Countryside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
-197,0.9,122.5,7.0,3,0.1,3.709256803042382,28.05,33.91,Seaside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-603,0.74,220.5,3.5,5,0.4,1.0012652273812885,14.5,17.03,Lakeside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
-497,0.79,147.0,7.0,3,0.25,4.550947446409966,39.83,36.66,Lakeside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,101.0
-376,0.64,220.5,3.5,2,0.25,0.975741125023158,17.14,20.47,Countryside,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,855.0
-402,0.79,147.0,7.0,4,0.25,3.1744100327052314,39.81,37.76,Countryside,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,117.0
-311,0.76,122.5,7.0,5,0.25,1.48244366227683,36.43,36.62,Countryside,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
-572,0.62,220.5,3.5,2,0.4,0.8352585988904537,15.09,17.2,Countryside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
-134,0.66,220.5,3.5,4,0.1,0.7460176194774868,11.33,15.0,Seaside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,81.0
-544,0.79,147.0,7.0,2,0.4,2.272983342249074,41.4,45.29,City,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-581,0.9,122.5,7.0,3,0.4,1.9390948326449788,36.57,35.39,Countryside,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-4,0.9,122.5,7.0,2,0.0,0.2821093257715091,20.84,28.28,City,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,877.0
-79,0.71,220.5,3.5,5,0.1,0.2178282905997937,10.75,14.27,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,109.0
-71,0.76,122.5,7.0,5,0.1,1.9445801951056145,32.21,33.67,Mountain,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,53.0
-655,0.71,220.5,3.5,5,0.4,2.337468567952846,13.86,16.1,Countryside,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
-420,0.66,220.5,3.5,2,0.25,4.4450547295415905,12.97,15.53,Seaside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,519.0
-466,0.69,220.5,3.5,4,0.25,4.755186840576062,12.67,15.83,City,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,563.0
-739,0.79,147.0,7.0,5,0.4,3.5636097654381347,40.79,44.87,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-754,0.69,220.5,3.5,4,0.4,6.928724392031989,14.37,16.54,Countryside,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-231,0.66,220.5,3.5,5,0.1,6.045632243391883,11.43,14.83,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,281.0
-345,0.86,147.0,7.0,3,0.25,4.4291566720725015,29.87,27.89,Countryside,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,45.0
-396,0.82,147.0,7.0,2,0.25,4.608609974367517,24.7,28.77,Countryside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-67,0.79,147.0,7.0,5,0.1,1.6223693154304664,35.94,43.33,Seaside,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
-393,0.86,147.0,7.0,3,0.25,3.571769437010901,29.4,32.93,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-542,0.82,147.0,7.0,4,0.4,1.5789727257990287,29.53,28.99,City,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-178,0.69,220.5,3.5,4,0.1,1.7085927276356216,11.1,14.67,City,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,841.0
-186,0.64,220.5,3.5,4,0.1,2.068643864220013,15.12,19.37,Seaside,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,941.0
-490,0.86,147.0,7.0,4,0.25,5.880160504938606,28.31,34.15,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-607,0.71,220.5,3.5,5,0.4,1.8797470274369903,14.71,17.51,Countryside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,
-337,0.98,110.25,7.0,3,0.25,1.2261044958956187,28.57,29.69,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,513.0
-515,0.69,220.5,3.5,5,0.25,4.221127050282312,12.47,14.6,City,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-150,0.9,122.5,7.0,4,0.1,3.580713168780126,29.62,30.08,Lakeside,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
-410,0.74,220.5,3.5,4,0.25,1.7555125912464196,11.98,14.72,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,389.0
-381,0.62,220.5,3.5,3,0.25,1.9912578806624428,14.66,15.64,Countryside,Very High Surface Area,The wall colour is white and the area is 367.5 meter squared.,
-535,0.9,122.5,7.0,5,0.4,1.2318525003083465,35.96,40.99,City,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-728,0.86,147.0,7.0,2,0.4,6.165411699435394,32.31,29.69,Seaside,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-502,0.76,122.5,7.0,4,0.25,5.851537584873514,36.06,35.73,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
-601,0.74,220.5,3.5,3,0.4,1.9127146919184828,14.45,16.93,City,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
-39,0.66,220.5,3.5,5,0.0,-0.8078062613893833,7.1,12.14,City,Very High Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-667,0.64,220.5,3.5,5,0.4,3.0227488186065568,18.46,21.53,City,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
-214,0.76,122.5,7.0,4,0.1,4.333935110825611,33.09,33.89,Seaside,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
-161,0.79,147.0,7.0,3,0.1,2.3448103050363285,35.48,41.22,Countryside,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
-313,0.74,220.5,3.5,3,0.25,0.5373402153152089,12.5,15.5,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
-658,0.69,220.5,3.5,4,0.4,1.8136714894079358,14.33,16.99,Mountain,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-700,0.71,220.5,3.5,2,0.4,2.9008413629101817,14.6,16.85,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
-443,0.86,147.0,7.0,5,0.25,4.915952125300986,29.88,28.31,Seaside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,849.0
-247,0.9,122.5,7.0,5,0.1,6.601998842791181,29.02,33.01,City,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,691.0
-372,0.66,220.5,3.5,2,0.25,3.0998779374234626,13.05,15.89,Seaside,Very High Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-172,0.71,220.5,3.5,2,0.1,2.5242755582298924,10.77,14.14,Countryside,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,377.0
-6,0.9,122.5,7.0,4,0.0,0.30098160612635816,20.71,25.16,Lakeside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-264,0.74,220.5,3.5,2,0.1,3.9097470124501457,10.47,13.65,Countryside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,215.0
-719,0.62,220.5,3.5,5,0.4,4.020477585056427,16.77,16.79,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
-128,0.69,220.5,3.5,2,0.1,3.5829532289360486,11.45,13.2,City,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-407,0.76,122.5,7.0,5,0.25,5.272946363902325,36.52,37.29,Mountain,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,
-463,0.71,220.5,3.5,5,0.25,1.8426611212470534,12.28,15.64,Countryside,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,
-105,0.86,147.0,7.0,3,0.1,0.9340109035840694,27.02,25.63,Mountain,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,387.0
-174,0.71,220.5,3.5,4,0.1,4.249072252518847,10.68,14.3,Countryside,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,
-310,0.76,122.5,7.0,4,0.25,0.19582921270037512,36.91,37.45,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
-676,0.9,122.5,7.0,2,0.4,2.4485770702601224,36.45,33.98,Mountain,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-767,0.62,220.5,3.5,5,0.4,6.248787150935197,16.64,16.03,Countryside,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
-307,0.79,147.0,7.0,5,0.25,0.5963840980215563,39.04,45.52,Countryside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-168,0.74,220.5,3.5,2,0.1,3.9769474875021116,10.39,13.6,City,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
-546,0.79,147.0,7.0,4,0.4,0.9008824950781693,42.5,38.35,Mountain,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-284,0.62,220.5,3.5,2,0.1,3.914943800671407,12.59,14.24,Seaside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,649.0
-324,0.66,220.5,3.5,2,0.25,0.9068707176760512,13.17,16.39,Seaside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,543.0
-745,0.74,220.5,3.5,3,0.4,5.654092450597725,14.19,16.62,Mountain,Average Surface Area,The wall colour is indigo and the area is 245.0 meter squared.,
-598,0.76,122.5,7.0,4,0.4,3.550371501825066,40.57,40.47,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
-35,0.69,220.5,3.5,5,0.0,-0.12031623428288654,6.81,11.93,Mountain,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,759.0
-159,0.82,147.0,7.0,5,0.1,4.255909037162455,23.87,24.93,Seaside,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,189.0
-716,0.62,220.5,3.5,2,0.4,3.4335636474545272,16.44,17.1,Countryside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
-273,0.69,220.5,3.5,3,0.1,5.546594373365835,11.14,14.28,Mountain,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-136,0.64,220.5,3.5,2,0.1,2.2016821621704583,15.41,19.23,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-564,0.66,220.5,3.5,2,0.4,0.9661476522693208,15.23,18.14,Countryside,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-602,0.74,220.5,3.5,4,0.4,2.6269077517028254,14.18,16.99,Countryside,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,
-431,0.62,220.5,3.5,5,0.25,3.1846616997013855,13.99,14.35,Seaside,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,721.0
-587,0.86,147.0,7.0,5,0.4,2.697223222105455,31.64,36.86,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-661,0.66,220.5,3.5,3,0.4,3.2590695263334033,15.18,17.63,Lakeside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-550,0.76,122.5,7.0,4,0.4,0.3695614503275625,40.71,40.63,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
-680,0.86,147.0,7.0,2,0.4,5.220222626481135,32.38,31.53,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-268,0.71,220.5,3.5,2,0.1,4.002426064866424,10.78,14.18,Countryside,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,883.0
-361,0.74,220.5,3.5,3,0.25,2.6070487826149664,12.45,15.1,City,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,589.0
-674,0.98,110.25,7.0,4,0.4,4.487832147636062,32.21,33.95,Seaside,Very Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-613,0.66,220.5,3.5,3,0.4,0.844802949733062,15.29,17.89,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-399,0.82,147.0,7.0,5,0.25,2.7044678198882695,25.17,26.41,Countryside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-437,0.9,122.5,7.0,3,0.25,3.524134448008718,31.69,37.12,Seaside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-556,0.71,220.5,3.5,2,0.4,2.3216186504365766,14.51,17.1,City,High Surface Area,The wall colour is orange and the area is 269.5 meter squared.,
-751,0.71,220.5,3.5,5,0.4,4.923831431549781,12.42,15.31,City,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,
-34,0.69,220.5,3.5,4,0.0,2.080647012122296,6.77,11.73,Mountain,High Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-494,0.82,147.0,7.0,4,0.25,4.488589469241791,24.6,29.31,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-569,0.64,220.5,3.5,3,0.4,0.531822839882575,19.36,22.73,Lakeside,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
-180,0.66,220.5,3.5,2,0.1,2.8424293762952493,11.59,13.46,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,869.0
-106,0.86,147.0,7.0,4,0.1,2.3925366802981944,26.33,27.36,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,741.0
-25,0.74,220.5,3.5,3,0.0,0.8336489235463559,6.05,11.19,City,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,521.0
-462,0.71,220.5,3.5,4,0.25,5.0240439871506295,12.17,15.2,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
-63,0.82,147.0,7.0,5,0.1,1.321267299057739,22.58,28.51,Countryside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-374,0.66,220.5,3.5,4,0.25,1.1962960065249901,12.77,16.22,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,547.0
-151,0.9,122.5,7.0,5,0.1,3.3042207486608697,29.05,29.67,Lakeside,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-762,0.64,220.5,3.5,4,0.4,4.49770305471769,18.16,20.71,Seaside,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-470,0.66,220.5,3.5,4,0.25,5.239742119463487,12.86,16.17,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,703.0
-404,0.76,122.5,7.0,2,0.25,2.335088162083095,35.99,36.07,Mountain,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
-232,0.64,220.5,3.5,2,0.1,6.0954101909675185,15.4,19.24,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,85.0
-397,0.82,147.0,7.0,3,0.25,2.5926572585354886,25.48,27.76,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-659,0.69,220.5,3.5,5,0.4,1.8142993526339743,14.08,17.02,Seaside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-648,0.74,220.5,3.5,2,0.4,2.212543309991471,13.97,16.08,City,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
-329,0.64,220.5,3.5,3,0.25,1.050201607289617,17.35,21.19,Mountain,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
-510,0.71,220.5,3.5,4,0.25,4.49001897979094,12.25,15.23,Countryside,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,
-525,0.62,220.5,3.5,3,0.25,5.477479658313992,13.99,14.61,Lakeside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
-586,0.86,147.0,7.0,4,0.4,3.174734357930305,32.13,32.28,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-109,0.82,147.0,7.0,3,0.1,2.170810440037511,24.23,25.02,City,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,165.0
-141,0.62,220.5,3.5,3,0.1,0.9192220041538297,13.0,14.57,Lakeside,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,301.0
-131,0.69,220.5,3.5,5,0.1,2.184274229448112,11.49,13.51,Seaside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-251,0.86,147.0,7.0,5,0.1,4.5449135532717975,26.45,31.28,City,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-219,0.74,220.5,3.5,5,0.1,3.9804315371016634,10.14,13.53,Countryside,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
-682,0.86,147.0,7.0,4,0.4,4.683869979303783,32.15,36.21,Seaside,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-243,0.98,110.25,7.0,5,0.1,5.794416249692524,24.26,26.18,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
-1,0.98,110.25,7.0,3,0.0,-0.27490142489105457,15.55,21.33,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-153,0.86,147.0,7.0,3,0.1,0.9399410035524984,26.47,31.01,Countryside,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,843.0
-359,0.76,122.5,7.0,5,0.25,1.5471368963128933,36.45,36.81,Mountain,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,297.0
-496,0.79,147.0,7.0,2,0.25,4.855745435308791,39.89,37.54,Countryside,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,1.0
-513,0.69,220.5,3.5,3,0.25,4.696911888631608,12.12,14.97,Mountain,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-582,0.9,122.5,7.0,4,0.4,3.0404635141403134,36.06,34.94,Seaside,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-146,0.98,110.25,7.0,4,0.1,3.5630909579943673,24.11,25.84,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,27.0
-241,0.98,110.25,7.0,3,0.1,4.245886992360909,24.33,25.98,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-224,0.69,220.5,3.5,2,0.1,5.230892789985154,11.18,14.29,Lakeside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-434,0.98,110.25,7.0,4,0.25,5.6419724566452,28.15,30.19,Seaside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-157,0.82,147.0,7.0,3,0.1,2.563649420546692,23.84,27.54,Seaside,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-357,0.76,122.5,7.0,3,0.25,0.7341581084297759,36.28,37.35,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,187.0
-274,0.69,220.5,3.5,4,0.1,6.2094100460318495,11.11,14.46,Countryside,High Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,55.0
-33,0.69,220.5,3.5,3,0.0,-1.404141709018787,6.79,12.05,Mountain,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,733.0
-623,0.62,220.5,3.5,5,0.4,1.7131287406808589,17.15,16.99,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
-471,0.66,220.5,3.5,5,0.25,4.717272244005432,12.92,16.14,City,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-299,0.86,147.0,7.0,5,0.25,1.168791797423484,28.66,34.73,Countryside,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-43,0.64,220.5,3.5,5,0.0,0.5995383165143332,10.56,16.67,City,Very High Surface Area,The wall colour is red and the area is 343.0 meter squared.,
-522,0.64,220.5,3.5,4,0.25,4.374460320034404,16.76,20.19,City,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
-384,0.98,110.25,7.0,2,0.25,2.443770795159643,28.67,29.43,Mountain,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-343,0.9,122.5,7.0,5,0.25,2.620501762484034,31.66,37.72,City,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-505,0.74,220.5,3.5,3,0.25,4.6746207529798225,11.67,14.58,Countryside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
-204,0.82,147.0,7.0,2,0.1,3.638945285073337,23.8,24.61,Lakeside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,9.0
-167,0.76,122.5,7.0,5,0.1,3.091680295504382,33.24,34.5,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
-59,0.86,147.0,7.0,5,0.1,0.5797678138658154,25.27,31.73,Mountain,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,815.0
-259,0.79,147.0,7.0,5,0.1,5.070906761535613,35.48,41.26,Countryside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-555,0.74,220.5,3.5,5,0.4,1.6013058039907373,14.55,17.25,City,Average Surface Area,The wall colour is blue and the area is 245.0 meter squared.,
-455,0.76,122.5,7.0,5,0.25,4.548335682329897,36.26,37.51,Lakeside,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,321.0
-583,0.9,122.5,7.0,5,0.4,0.7706123558681246,35.69,40.66,Seaside,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-242,0.98,110.25,7.0,4,0.1,4.249212001803385,24.03,25.88,City,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-349,0.82,147.0,7.0,3,0.25,2.6252910187418315,25.98,26.96,City,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-398,0.82,147.0,7.0,4,0.25,2.6600647065846474,25.37,26.95,Mountain,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-237,0.62,220.5,3.5,3,0.1,6.123383435575056,13.04,14.34,Countryside,Very High Surface Area,The wall colour is white and the area is 367.5 meter squared.,167.0
-428,0.62,220.5,3.5,2,0.25,2.963896490273313,13.91,14.89,City,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
-121,0.74,220.5,3.5,3,0.1,0.2646465793231316,10.46,13.72,Seaside,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,23.0
-636,0.82,147.0,7.0,2,0.4,4.860312788629136,28.67,32.43,Lakeside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-391,0.9,122.5,7.0,5,0.25,2.2883809406538704,32.29,32.46,Mountain,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-605,0.71,220.5,3.5,3,0.4,3.3589552300677115,14.66,17.37,Lakeside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,
-590,0.82,147.0,7.0,4,0.4,0.8112317889808527,28.64,28.95,Seaside,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-681,0.86,147.0,7.0,3,0.4,4.107933377405347,31.66,36.2,City,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-198,0.9,122.5,7.0,4,0.1,4.498556884611474,28.86,32.83,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-316,0.71,220.5,3.5,2,0.25,-0.9092748498081089,12.57,15.42,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
-260,0.76,122.5,7.0,2,0.1,4.208633094581815,32.31,34.25,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
-207,0.82,147.0,7.0,5,0.1,5.407221292594018,24.24,25.16,City,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-116,0.76,122.5,7.0,2,0.1,0.31496441279476106,33.16,33.91,Seaside,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
-40,0.64,220.5,3.5,2,0.0,0.8878001152763078,10.85,16.78,Lakeside,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
-558,0.71,220.5,3.5,4,0.4,1.1805083494705833,14.5,17.12,City,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,
-433,0.98,110.25,7.0,3,0.25,3.886587170868232,28.55,29.59,,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-383,0.62,220.5,3.5,5,0.25,2.06745894944019,14.6,15.3,Lakeside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
-91,0.64,220.5,3.5,5,0.1,1.7543065502258472,15.21,19.32,Countryside,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
-181,0.66,220.5,3.5,3,0.1,3.6048477395195686,11.6,13.7,City,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-330,0.64,220.5,3.5,4,0.25,1.5488295719600038,17.52,21.09,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-714,0.64,220.5,3.5,4,0.4,3.517212124658411,19.0,22.25,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-430,0.62,220.5,3.5,4,0.25,4.47438557449307,13.95,14.89,Countryside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,243.0
-755,0.69,220.5,3.5,5,0.4,4.533454870199666,14.21,16.74,City,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-294,0.9,122.5,7.0,4,0.25,2.7029137366659164,32.84,32.71,Mountain,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-724,0.9,122.5,7.0,2,0.4,6.082716187558045,35.67,33.94,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-171,0.74,220.5,3.5,5,0.1,3.517860477865619,10.38,13.49,Countryside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
-392,0.86,147.0,7.0,2,0.25,3.247115239006691,28.4,33.52,City,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,357.0
-193,0.98,110.25,7.0,3,0.1,4.001473726092387,24.23,25.72,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,371.0
-703,0.71,220.5,3.5,5,0.4,4.001402762731508,14.66,17.74,Seaside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,
-77,0.71,220.5,3.5,3,0.1,0.219071987789337,10.8,14.28,Countryside,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
-695,0.76,122.5,7.0,5,0.4,5.091451146215404,40.11,40.77,Lakeside,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
-417,0.69,220.5,3.5,3,0.25,3.439662376108795,12.46,14.38,City,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,317.0
-355,0.79,147.0,7.0,5,0.25,2.9054476575617314,38.98,45.97,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-225,0.69,220.5,3.5,3,0.1,2.445611181387733,11.22,14.49,Countryside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,631.0
-696,0.74,220.5,3.5,2,0.4,3.5515272112457668,14.37,16.61,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
-239,0.62,220.5,3.5,5,0.1,5.0455861434959886,13.0,14.47,City,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
-292,0.9,122.5,7.0,2,0.25,1.7433451242007219,32.68,36.12,Lakeside,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,219.0
-209,0.79,147.0,7.0,3,0.1,4.538864640155249,35.89,43.3,,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,655.0
-64,0.79,147.0,7.0,2,0.1,-0.36955372948196263,35.56,41.68,Seaside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-100,0.9,122.5,7.0,2,0.1,1.713103493207753,28.88,32.54,Seaside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,209.0
-654,0.71,220.5,3.5,4,0.4,2.109806924363712,13.94,16.7,Countryside,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,
-469,0.66,220.5,3.5,3,0.25,4.514678501223941,13.0,15.59,Countryside,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-540,0.82,147.0,7.0,2,0.4,1.9220033133900407,29.22,31.71,Mountain,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-331,0.64,220.5,3.5,5,0.25,0.7321714420229586,17.37,21.08,Mountain,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-475,0.64,220.5,3.5,5,0.25,3.720565961286532,16.62,19.9,Mountain,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,311.0
-691,0.79,147.0,7.0,5,0.4,4.4442000909929575,42.96,39.56,City,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
-41,0.64,220.5,3.5,3,0.0,-0.2174474496266529,10.54,16.8,Countryside,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,761.0
-369,2.0,220.5,3.5,3,1.9,1.3371409602891973,12.87,15.85,Countryside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-580,0.9,122.5,7.0,2,0.4,2.7069590726200468,35.84,38.35,Seaside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-183,0.66,220.5,3.5,5,0.1,2.1899403819047536,11.61,13.83,Seaside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,63.0
-177,0.69,220.5,3.5,3,0.1,3.7676091857972582,11.16,14.27,Lakeside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-614,0.66,220.5,3.5,4,0.4,1.2334288714682704,15.09,18.36,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
-710,0.66,220.5,3.5,4,0.4,4.055217884631941,15.09,18.36,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-9,0.86,147.0,7.0,3,0.0,0.3778133938400221,19.95,21.97,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-640,0.79,147.0,7.0,2,0.4,3.0376181058281353,41.26,46.44,City,Average Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-731,0.86,147.0,7.0,5,0.4,5.6827599783434986,32.06,35.71,Mountain,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-142,0.62,220.5,3.5,4,0.1,2.328326849845779,12.97,14.27,Seaside,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,561.0
-650,0.74,220.5,3.5,4,0.4,2.957183219858153,14.1,16.57,Countryside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
-740,0.76,122.5,7.0,2,0.4,4.225494730317276,38.82,39.37,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
-261,0.76,122.5,7.0,3,0.1,3.313443967979384,33.21,34.35,Seaside,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,671.0
-484,0.9,122.5,7.0,2,0.25,6.541681771284316,33.13,32.25,City,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-671,0.62,220.5,3.5,5,0.4,2.6901004130968356,16.74,16.0,City,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,
-416,0.69,220.5,3.5,2,0.25,4.194704877414582,12.34,14.92,City,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-236,0.62,220.5,3.5,2,0.1,3.94763003103198,12.85,14.37,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,995.0
-215,0.76,122.5,7.0,5,0.1,4.307267366738389,32.31,34.05,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,359.0
-205,0.82,1792.0,7.0,422,0.1,2.727809036200246,22.8,28.61,Seaside,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
-314,0.74,220.5,3.5,4,0.25,1.4025985106536119,12.41,15.28,City,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,
-318,0.71,220.5,3.5,4,0.25,-1.1001298073052412,12.57,15.44,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,833.0
-742,0.76,122.5,7.0,4,0.4,5.526924461050788,39.31,37.79,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
-234,0.64,220.5,3.5,4,0.1,4.531465351272251,15.32,19.42,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-526,0.62,220.5,3.5,4,0.25,7.4081947189215365,14.16,14.61,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,471.0
-543,0.82,147.0,7.0,5,0.4,0.8888963654405279,28.65,33.54,City,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-450,0.79,147.0,7.0,4,0.25,4.956879824997621,38.33,44.16,Seaside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
-641,0.79,147.0,7.0,3,0.4,4.8556067066429005,41.3,44.18,Lakeside,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
-248,0.86,147.0,7.0,2,0.1,6.593906116709002,27.03,25.82,Mountain,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-118,0.76,122.5,7.0,4,0.1,1.7685591831221372,33.12,34.17,City,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,871.0
-401,0.79,147.0,7.0,3,0.25,3.8925941827957993,38.35,43.66,City,Average Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-415,0.71,220.5,3.5,5,0.25,3.2905137247580307,12.19,14.94,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,13.0
-715,0.64,220.5,3.5,5,0.4,4.199957798324389,18.84,22.49,City,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
-514,0.69,220.5,3.5,4,0.25,5.160849636786793,12.18,15.22,Countryside,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-448,0.79,147.0,7.0,2,0.25,5.045917126121899,40.0,36.26,Seaside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-518,0.66,220.5,3.5,4,0.25,4.702350720305124,12.78,15.8,Countryside,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,289.0
-414,0.71,220.5,3.5,4,0.25,5.269394200238484,12.1,15.57,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,505.0
-609,0.69,220.5,3.5,3,0.4,2.788533428806537,14.71,17.01,Countryside,High Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-36,0.66,220.5,3.5,2,0.0,0.7597918789688112,7.18,12.4,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,953.0
-537,0.86,147.0,7.0,3,0.4,0.14796851659536003,32.39,30.66,Countryside,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-85,0.66,220.5,3.5,3,0.1,0.5521562718249811,11.69,13.72,City,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,861.0
-668,0.62,220.5,3.5,2,0.4,1.7061631500736059,16.47,16.9,City,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
-413,0.71,220.5,3.5,3,0.25,2.3786210542530766,12.28,14.74,Countryside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,999.0
-713,0.64,220.5,3.5,3,0.4,3.8378786371708693,19.13,21.54,Countryside,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
-283,0.64,220.5,3.5,5,0.1,3.0119759413199505,15.36,19.29,Countryside,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-622,0.62,220.5,3.5,4,0.4,1.7963533947757575,17.26,16.86,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,
-425,0.64,220.5,3.5,3,0.25,3.8113570043987717,16.93,20.03,Countryside,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,97.0
-218,0.74,220.5,3.5,4,0.1,4.350077115177813,10.07,13.21,City,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,363.0
-451,0.79,147.0,7.0,5,0.25,4.7878108551916565,40.12,37.26,Countryside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-516,0.66,220.5,3.5,2,0.25,4.719951293750564,12.93,15.83,Lakeside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-616,0.64,220.5,3.5,2,0.4,2.9750198415441864,19.2,21.72,Mountain,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-571,0.64,220.5,3.5,5,0.4,-0.9112238500488186,19.42,22.53,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-70,0.76,122.5,7.0,4,0.1,0.2595244008765927,32.94,34.14,Seaside,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
-565,0.66,220.5,3.5,3,0.4,0.11313855148324525,15.23,18.03,City,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-304,0.79,147.0,7.0,2,0.25,-1.5173919907094366,38.67,43.8,City,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-483,0.98,110.25,7.0,5,0.25,4.652200383774436,28.61,30.2,City,Very Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-133,0.66,220.5,3.5,3,0.1,1.1285261344812632,11.42,14.75,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-652,0.71,220.5,3.5,2,0.4,2.992167898453193,14.07,16.11,Countryside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,
-112,0.79,147.0,7.0,2,0.1,1.7377923757808853,35.65,41.07,Mountain,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,681.0
-227,0.69,220.5,3.5,5,0.1,4.717044239818696,11.2,14.73,Countryside,High Surface Area,The wall colour is orange and the area is 294.0 meter squared.,611.0
-718,0.62,220.5,3.5,4,0.4,5.373516402032319,16.94,16.58,Countryside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
-293,0.9,122.5,7.0,3,0.25,1.293054944909258,33.48,33.17,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,921.0
-101,0.9,122.5,7.0,3,0.1,0.358825656430811,29.68,29.44,Seaside,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-706,0.69,220.5,3.5,4,0.4,2.1126191796566305,14.53,16.9,City,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
-579,0.98,110.25,7.0,5,0.4,1.2278408128073814,32.72,33.78,Countryside,Very Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
-727,0.9,122.5,7.0,5,0.4,6.142871769631357,35.24,37.27,Countryside,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-733,0.82,147.0,7.0,3,0.4,6.290102107767856,29.5,29.56,City,Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-612,0.66,220.5,3.5,2,0.4,0.7831123591971623,15.34,17.85,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
-328,0.64,220.5,3.5,2,0.25,1.9138659824803588,17.5,21.13,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-545,0.79,147.0,7.0,3,0.4,0.7105072256684495,42.62,39.07,City,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
-638,0.82,147.0,7.0,4,0.4,2.135013278808846,29.47,29.77,City,Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-278,0.66,220.5,3.5,4,0.1,4.652949036964946,11.22,14.65,City,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,827.0
-21,0.76,122.5,7.0,3,0.0,0.9972915058695535,173.0,177.0,City,Average Surface Area,The wall colour is red and the area is 416.5 meter squared.,777.0
-485,0.9,122.5,7.0,3,0.25,4.505473112743028,32.31,32.0,Mountain,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,717.0
-341,0.9,122.5,7.0,3,0.25,2.206153470599429,33.27,32.64,City,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
-458,0.74,220.5,3.5,4,0.25,5.130186815843302,12.18,15.03,City,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,343.0
-766,0.62,220.5,3.5,4,0.4,6.016935721971645,16.48,16.61,Seaside,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,
-647,0.76,122.5,7.0,5,0.4,3.501277404959719,39.68,40.1,Lakeside,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,
-532,0.9,122.5,7.0,2,0.4,2.26578884379511,36.47,39.28,Lakeside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,263.0
-436,0.9,122.5,7.0,2,0.25,3.404567525536798,32.67,32.12,Countryside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-412,0.71,220.5,3.5,2,0.25,2.69891859750259,12.41,14.92,Mountain,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,203.0
-449,0.79,147.0,7.0,3,0.25,6.132671274472496,38.84,45.48,Mountain,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
-499,0.79,147.0,7.0,5,0.25,3.9534149316119462,38.65,43.73,Seaside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-163,0.79,147.0,7.0,5,0.1,2.449845598006651,36.7,34.29,City,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,349.0
-54,0.9,122.5,7.0,4,0.1,0.9664994262351819,29.14,29.58,City,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,403.0
-626,0.98,110.25,7.0,4,0.4,3.365624982405155,32.23,33.86,Mountain,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-201,0.86,147.0,7.0,3,0.1,4.070624318616039,25.37,31.76,City,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-531,0.98,110.25,7.0,5,0.4,0.9901999159122421,32.53,33.04,City,Very Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,517.0
-17,0.79,147.0,7.0,3,0.0,-0.8244922276767248,29.9,31.27,Lakeside,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,909.0
-271,0.71,220.5,3.5,5,0.1,4.471088926573144,13.69,13.89,Lakeside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,173.0
-22,0.76,122.5,7.0,4,0.0,-0.12727384057575397,24.77,29.79,City,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,669.0
-256,0.79,147.0,7.0,2,0.1,4.086647071124058,37.03,34.99,Lakeside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-302,0.82,147.0,7.0,4,0.25,1.8475150565192848,26.97,27.25,Countryside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-717,0.62,220.5,3.5,3,0.4,4.545784987004682,16.9,16.79,Lakeside,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
-296,0.86,147.0,7.0,2,0.25,1.5667276963524057,29.54,33.98,City,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,463.0
-325,0.66,220.5,3.5,3,0.25,-0.16369255451628595,13.18,16.27,Seaside,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,11.0
-765,0.62,220.5,3.5,3,0.4,5.525557593954247,16.44,17.11,Lakeside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
-618,0.64,220.5,3.5,4,0.4,2.037449065076357,18.9,22.09,Mountain,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-342,0.9,122.5,7.0,4,0.25,2.752759440893945,32.33,32.77,City,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-170,0.74,220.5,3.5,4,0.1,2.46491236881334,10.35,13.65,City,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,339.0
-711,0.66,220.5,3.5,5,0.4,4.536455751354754,15.3,18.24,City,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
-588,0.82,147.0,7.0,2,0.4,3.1601358861167297,28.95,30.34,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-75,0.74,220.5,3.5,5,0.1,1.635151089794947,10.39,13.7,Mountain,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,
-480,0.98,110.25,7.0,2,0.25,3.7965684133195525,28.69,29.53,City,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-519,0.66,220.5,3.5,5,0.25,3.737984861941827,13.02,16.06,Mountain,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,893.0
-465,0.69,220.5,3.5,3,0.25,3.093353225144119,12.95,15.73,Countryside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,149.0
-679,0.9,122.5,7.0,5,0.4,3.526668151653314,36.57,36.1,City,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-165,0.76,122.5,7.0,3,0.1,2.6507274106395546,33.28,34.11,Countryside,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
-705,0.69,220.5,3.5,3,0.4,3.149702293430596,14.62,16.88,City,High Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
-752,0.69,220.5,3.5,2,0.4,4.518349915070551,14.12,16.63,Countryside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-13,0.82,147.0,7.0,3,0.0,-1.5356542853562096,17.41,21.46,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-108,0.82,147.0,7.0,2,0.1,2.579968530119805,23.75,27.38,Countryside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,863.0
-649,0.74,220.5,3.5,3,0.4,2.4721645561026606,14.22,15.39,Seaside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
-80,0.69,220.5,3.5,2,0.1,-0.4058051394886111,11.11,14.28,Seaside,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,229.0
-591,0.82,147.0,7.0,5,0.4,0.44867209272016284,28.01,32.92,Mountain,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-657,0.69,220.5,3.5,3,0.4,4.735566404460814,14.56,15.84,Countryside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-688,0.79,147.0,7.0,2,0.4,4.5912004941516456,42.77,38.33,Countryside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-257,0.79,147.0,7.0,3,0.1,4.573690206146669,36.71,34.18,Lakeside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,253.0
-677,0.9,122.5,7.0,3,0.4,4.320079712551081,35.73,39.92,Seaside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-403,0.79,147.0,7.0,5,0.25,3.182493409022312,39.83,36.87,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,771.0
-559,0.71,220.5,3.5,5,0.4,0.2751878865762091,14.58,17.47,Countryside,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
-554,0.74,220.5,3.5,4,0.4,-0.689339823044911,14.5,17.03,Lakeside,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
-199,0.9,122.5,7.0,5,0.1,4.196929508288882,29.79,29.92,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-530,0.98,110.25,7.0,4,0.4,3.5012494384936947,32.49,32.83,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,659.0
-627,0.98,110.25,7.0,5,0.4,1.514861149618103,32.75,34.0,Countryside,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-27,0.74,220.5,3.5,5,0.0,1.1744869568602285,6.04,11.17,Seaside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,235.0
-253,0.82,147.0,7.0,3,0.1,5.072488380534042,23.89,24.77,Countryside,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,891.0
-692,0.76,122.5,7.0,2,0.4,1.8626665756202447,40.68,40.36,,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
-15,0.82,147.0,7.0,5,0.0,1.0165449350444602,15.98,24.93,Countryside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,323.0
-473,0.64,220.5,3.5,3,0.25,4.1265794611936695,16.69,19.76,Lakeside,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-286,0.62,220.5,3.5,4,0.1,4.540526672900025,12.8,13.99,City,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
-486,0.9,122.5,7.0,4,0.88,13.0,31.53,37.19,Lakeside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-143,0.62,220.5,3.5,5,0.1,0.5855526738805339,13.04,14.24,Countryside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,51.0
-16,0.79,147.0,7.0,2,0.0,1.0339638833350278,28.52,37.73,Countryside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,795.0
-567,0.66,220.5,3.5,5,0.4,0.17768723207851722,15.23,17.95,Countryside,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-176,0.69,220.5,3.5,2,0.1,3.6991771078987825,11.22,14.44,Mountain,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-270,0.71,220.5,3.5,4,0.1,5.635972459577727,10.67,14.26,City,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,
-73,0.74,220.5,3.5,3,0.1,1.4949583855456279,10.43,13.71,Seaside,Average Surface Area,The wall colour is indigo and the area is 245.0 meter squared.,
-158,0.82,147.0,7.0,4,0.1,3.1846330135071828,24.17,25.35,Mountain,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-26,0.74,220.5,3.5,4,0.0,-0.5672178877684496,6.01,10.94,City,Average Surface Area,The wall colour is blue and the area is 245.0 meter squared.,245.0
-322,0.69,220.5,3.5,4,0.25,0.1408615029082827,12.73,15.48,Lakeside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
-2,0.98,110.25,7.0,4,0.0,-0.13928556164428274,15.55,21.33,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-456,0.74,220.5,3.5,2,0.25,4.951179457723515,12.32,14.92,Mountain,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,813.0
-206,0.82,147.0,7.0,4,0.1,4.039942817406432,23.59,27.57,City,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,397.0
-155,0.86,147.0,7.0,5,0.1,4.880963035376064,26.46,27.4,Countryside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,511.0
-295,0.9,122.5,7.0,5,0.25,-0.10511457035062444,32.0,37.58,City,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-124,0.71,220.5,3.5,2,0.1,3.129848363442468,10.64,13.67,City,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,401.0
-102,0.9,122.5,7.0,4,0.1,-0.014491748872635046,28.83,29.36,Countryside,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,477.0
-512,0.69,220.5,3.5,2,0.25,6.360718534335147,12.47,15.14,City,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,619.0
-192,0.98,110.25,7.0,2,0.1,2.7079426980040813,24.38,25.91,Mountain,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,679.0
-660,0.66,220.5,3.5,2,0.4,3.5402728012189417,15.16,17.04,City,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
-30,0.71,220.5,3.5,4,0.0,0.36927018060686445,6.37,11.29,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,77.0
-51,0.98,110.25,7.0,5,0.1,1.8113496315497422,24.59,26.29,City,Very Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-389,0.9,122.5,7.0,3,0.25,3.7355384190162053,32.4,35.1,City,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,797.0
-735,0.82,147.0,7.0,5,0.4,4.8952407760657035,29.92,32.54,Countryside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
-702,0.71,220.5,3.5,4,0.4,4.109956191134195,14.47,17.23,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
-539,0.86,147.0,7.0,5,0.4,-0.0367096732657155,31.29,36.73,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
-277,0.66,220.5,3.5,3,0.1,3.6506623202685935,11.34,14.81,Mountain,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,809.0
-84,0.66,220.5,3.5,2,0.1,-0.6408987942595121,11.68,13.9,Countryside,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,
-20,0.76,122.5,7.0,2,0.0,-0.30418547481793395,24.77,29.79,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,95.0
-156,0.82,147.0,7.0,2,0.1,2.7158151064247216,22.93,28.68,Seaside,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
-336,0.98,110.25,7.0,2,0.25,1.9345981879991936,28.67,29.62,Lakeside,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,497.0
-523,0.64,220.5,3.5,5,0.25,6.053298028451915,16.92,20.29,Seaside,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,693.0
-86,0.66,220.5,3.5,4,0.1,1.1303905620952044,11.7,13.88,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,331.0
-68,0.76,122.5,7.0,2,0.1,1.55524429596073,32.96,33.87,Mountain,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,
-424,0.64,220.5,3.5,2,0.25,3.8749161599805237,16.83,19.87,Lakeside,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,413.0
-117,0.76,122.5,7.0,3,0.1,3.810213569697498,32.4,34.07,City,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
-388,0.9,122.5,7.0,2,0.25,2.3437917164076083,31.63,36.35,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-600,0.74,220.5,3.5,2,0.4,3.3928905866815646,14.54,16.43,Lakeside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
-291,0.98,110.25,7.0,5,0.25,1.3921980837737602,28.41,29.49,Mountain,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,939.0
-573,0.62,220.5,3.5,3,0.4,1.5427233327275731,17.17,17.21,Countryside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
-42,0.64,220.5,3.5,4,0.0,-0.9395245163156084,10.77,16.75,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
-334,0.62,220.5,3.5,4,0.25,1.4578639868438896,15.08,15.77,City,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,709.0
-729,0.86,147.0,7.0,3,0.4,3.6896669339513393,31.81,31.2,Mountain,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
-631,0.9,122.5,7.0,5,0.4,2.8936905537009556,34.29,33.31,Countryside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-95,0.62,220.5,3.5,5,0.1,0.39453856353303784,13.02,14.27,City,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
-643,0.79,147.0,7.0,5,0.4,2.6294362417326433,42.08,38.23,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-212,0.76,122.5,7.0,2,0.1,2.410364384637192,33.08,34.11,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
-763,0.64,220.5,3.5,5,0.4,3.6777976697847157,17.88,21.4,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
-353,0.79,147.0,7.0,3,0.25,2.1783647577498377,40.19,37.41,Countryside,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,333.0
-319,0.71,220.5,3.5,5,0.25,-0.9615011334494519,12.63,15.81,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,945.0
-179,0.69,220.5,3.5,5,0.1,2.443126162813686,11.14,14.4,Lakeside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,747.0
-639,0.82,147.0,7.0,5,0.4,3.411374184814209,28.91,29.64,Countryside,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
-536,0.86,147.0,7.0,2,0.4,2.0531410051773333,31.89,35.99,Countryside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,393.0
-712,0.64,220.5,3.5,2,0.4,3.154140359227334,19.06,21.68,Mountain,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
-373,0.66,220.5,3.5,3,0.25,3.0031182958235147,12.93,15.85,Countryside,Very High Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,75.0
-435,0.98,110.25,7.0,5,0.25,2.2127703589964103,28.62,30.12,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,119.0
-298,0.86,147.0,7.0,4,0.25,0.4555337059845639,29.6,30.12,Seaside,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,787.0
-387,0.98,110.25,7.0,5,0.25,2.6785579737661434,28.63,30.19,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,819.0
-280,0.64,220.5,3.5,2,0.1,4.655179595617646,15.16,19.24,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,789.0
-317,0.71,220.5,3.5,3,0.25,-0.6717353163490061,12.65,15.85,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
-89,0.64,220.5,3.5,3,0.1,0.36351454339566414,15.2,19.43,Mountain,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,727.0
-442,0.86,147.0,7.0,4,0.25,2.3267575012303485,29.08,33.93,Seaside,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,661.0
-479,0.62,220.5,3.5,5,0.25,3.4623834048382016,14.65,15.38,Mountain,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
-491,0.86,147.0,7.0,5,0.25,2.159211869077521,29.39,33.47,Seaside,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
-418,0.69,220.5,3.5,4,0.25,4.225949054843302,12.31,15.44,City,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-57,0.86,147.0,7.0,3,0.1,-0.06082656002407005,26.91,25.6,Countryside,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
-549,0.76,122.5,7.0,3,0.4,2.1104099220109553,39.97,40.85,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
-148,0.9,122.5,7.0,2,0.1,3.5087702713492543,28.07,34.14,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,675.0
-552,0.74,220.5,3.5,2,0.4,1.4944347254563422,14.52,16.94,City,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
-529,0.98,110.25,7.0,3,0.4,0.5421610911140975,32.26,33.34,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
-685,0.82,147.0,7.0,3,0.4,3.9277052051546004,28.05,32.35,Lakeside,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-164,0.76,122.5,7.0,2,0.1,4.323308437514428,32.52,33.85,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,907.0
-189,0.62,220.5,3.5,3,0.1,3.2450945158277094,12.63,14.23,Lakeside,Very High Surface Area,The wall colour is white and the area is 367.5 meter squared.,277.0
-468,0.66,220.5,3.5,2,0.25,3.3092462066252244,12.95,15.95,,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
-72,0.74,220.5,3.5,2,0.1,2.0979879987344474,10.36,13.43,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,425.0
-65,0.79,147.0,7.0,3,0.1,0.7868319579844173,37.12,35.28,City,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
-111,0.82,147.0,7.0,5,0.1,1.8252454029392413,22.79,28.79,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,345.0
-115,0.79,147.0,7.0,5,0.1,2.3023232546922148,36.03,42.86,Seaside,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,663.0
-276,0.66,220.5,3.5,2,0.1,3.4735993736066946,11.38,14.54,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,17.0
-541,0.82,147.0,7.0,3,0.4,1.7957813982987791,29.91,29.13,Seaside,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+,Relative Compactness,Roof Area,Overall Height,Orientation,Glazing Area,Glazing Area Distribution,Heating Load,Location,surface_area_categories,wall_description,energxe
+223,0.71,220.5,3.5,5,0.1,4.407174601266167,10.72,Mountain,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,571.0
+285,0.62,220.5,3.5,3,0.1,3.7253915772335118,12.74,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
+350,0.82,147.0,7.0,4,0.25,1.530089721413826,25.38,Countryside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+363,0.74,220.5,3.5,5,0.25,2.007143957249388,12.3,City,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,395.0
+551,0.76,122.5,7.0,5,0.4,1.6498515002041636,40.43,Seaside,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,
+395,0.86,147.0,7.0,5,0.25,4.158053639244182,29.07,Seaside,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,213.0
+233,0.64,220.5,3.5,3,0.1,4.204239730295779,15.19,Lakeside,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+666,0.64,220.5,3.5,4,0.4,2.509557215204223,18.48,Seaside,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+758,0.66,220.5,3.5,4,0.4,3.1912137662224596,14.92,City,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+162,0.79,147.0,7.0,4,0.1,3.7391287848919,36.97,City,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,989.0
+194,0.98,110.25,7.0,4,0.1,4.837975889067607,24.04,Countryside,Very Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+377,0.64,220.5,3.5,3,0.25,3.5858075746554556,16.84,Lakeside,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
+226,0.69,220.5,3.5,4,0.1,3.7334320592561316,11.07,Mountain,High Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,467.0
+385,0.98,110.25,7.0,3,0.25,2.337283354528074,28.56,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,135.0
+216,0.74,220.5,3.5,2,0.1,3.5307600087705597,10.08,Lakeside,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
+140,0.62,220.5,3.5,2,0.1,2.7099004796056283,12.88,Countryside,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,417.0
+687,0.82,147.0,7.0,5,0.4,2.6075418486817927,29.52,City,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+520,0.64,220.5,3.5,2,0.25,4.616225319420907,16.73,City,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,523.0
+721,0.98,110.25,7.0,3,0.4,5.3129228670368045,32.72,Countryside,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+185,0.64,220.5,3.5,3,0.1,3.6434903792734277,15.36,City,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
+651,0.74,220.5,3.5,5,0.4,1.8471805205996485,13.78,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
+619,0.64,220.5,3.5,5,0.4,2.664043597135057,19.12,City,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+750,0.71,220.5,3.5,4,0.4,2.9708302693832467,12.76,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,
+656,0.69,220.5,3.5,2,0.4,1.2313974320502943,14.32,Countryside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+245,0.9,122.5,7.0,3,0.1,6.267023157646568,29.08,Lakeside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,143.0
+380,0.62,220.5,3.5,2,0.25,1.838048566993549,14.34,Countryside,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,
+664,0.64,220.5,3.5,2,0.4,0.24405751434925627,18.48,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+50,0.98,110.25,7.0,4,0.1,1.32076159090582,24.63,City,Very Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+275,0.69,220.5,3.5,5,0.1,6.756890294936714,11.16,Countryside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+221,0.71,220.5,3.5,3,0.1,4.220078579904469,10.68,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,41.0
+517,0.66,220.5,3.5,3,0.25,5.962167857916449,12.82,City,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,929.0
+87,0.66,220.5,3.5,5,0.1,1.8833831555618001,11.69,City,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+722,0.98,110.25,7.0,4,0.4,6.39039998284054,32.21,City,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+120,0.74,220.5,3.5,2,0.1,0.7893211094454298,10.42,Lakeside,Average Surface Area,The wall colour is blue and the area is 245.0 meter squared.,485.0
+202,0.86,147.0,7.0,4,0.1,4.237352023932054,26.33,City,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,153.0
+390,0.9,122.5,7.0,4,0.25,2.8203421388988303,32.68,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,429.0
+346,0.86,147.0,7.0,4,0.25,1.625761158396337,29.27,City,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+534,0.9,122.5,7.0,4,0.4,0.3214403021151685,36.66,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+321,0.69,220.5,3.5,3,0.25,-0.21243779727316192,12.93,Seaside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+507,0.74,220.5,3.5,5,0.25,3.895197583573757,12.02,Seaside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
+196,0.9,122.5,7.0,2,0.1,3.3296508918056653,29.06,City,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,99.0
+743,0.76,122.5,7.0,5,0.4,4.904252940000937,39.86,City,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
+267,0.74,220.5,3.5,5,0.1,4.431217862703258,10.39,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,957.0
+553,0.74,220.5,3.5,3,0.4,0.7568796186936319,14.61,Lakeside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
+45,0.62,220.5,3.5,3,0.0,1.0000054596980428,8.49,Lakeside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
+379,0.64,220.5,3.5,5,0.25,2.620859055972762,17.11,Seaside,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+10,0.86,147.0,7.0,4,0.0,-0.09021319258345827,19.34,Lakeside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+394,0.86,147.0,7.0,4,0.25,2.1754486208847146,29.43,City,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+444,0.82,147.0,7.0,2,0.25,4.852544425439105,25.66,City,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+698,0.74,220.5,3.5,4,0.4,4.9759746444563575,14.32,Mountain,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
+492,0.82,147.0,7.0,2,0.25,4.393936570443466,25.7,City,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+521,0.64,220.5,3.5,3,0.25,6.223332857284588,16.86,Countryside,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,123.0
+149,0.9,122.5,7.0,3,0.1,1.0107800714187547,29.01,Countryside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,179.0
+288,0.98,110.25,7.0,2,0.25,2.277142556841339,28.15,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+289,0.98,110.25,7.0,3,0.25,0.8986045986940853,28.15,City,Very Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,817.0
+135,0.66,220.5,3.5,5,0.1,3.1406990070448577,11.43,Seaside,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,687.0
+441,0.86,147.0,7.0,3,0.25,3.816986549939678,28.42,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,821.0
+493,0.82,147.0,7.0,3,0.25,5.098617170263565,25.17,Lakeside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+461,0.71,220.5,3.5,3,0.25,1.9379578485416724,12.49,Lakeside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,895.0
+635,0.86,147.0,7.0,5,0.4,3.5354770624977068,31.84,Countryside,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+756,0.66,220.5,3.5,2,0.4,6.7823077199329544,14.96,City,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+344,0.86,147.0,7.0,2,0.25,1.0253072623497266,29.34,Countryside,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+358,0.76,122.5,7.0,4,0.25,2.415394663714204,36.86,Seaside,Average Surface Area,The wall colour is red and the area is 416.5 meter squared.,307.0
+566,0.66,220.5,3.5,4,0.4,1.7610017636768638,15.23,Seaside,,The wall colour is red and the area is 318.5 meter squared.,
+169,0.74,220.5,3.5,3,0.1,3.011056924878096,10.34,Seaside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,923.0
+653,0.71,220.5,3.5,3,0.4,2.481683011845496,14.03,City,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,
+335,0.62,220.5,3.5,5,0.25,1.5421265180258679,15.16,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,731.0
+191,0.62,220.5,3.5,5,0.1,3.7793103603862592,12.73,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,683.0
+561,0.69,220.5,3.5,3,0.4,1.718170639165323,14.7,Mountain,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+32,0.69,220.5,3.5,2,0.0,-0.941809488918664,6.85,City,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,469.0
+222,0.71,220.5,3.5,4,0.1,5.1809779363620025,10.53,Countryside,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,125.0
+49,0.98,110.25,7.0,3,0.1,-0.45511416809631333,24.63,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+538,0.86,147.0,7.0,4,0.4,2.1406311174829304,32.09,City,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+503,0.76,122.5,7.0,5,0.25,4.0417502882183225,36.7,Countryside,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,615.0
+608,0.69,220.5,3.5,2,0.4,2.2495881203723913,14.75,City,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+382,0.62,220.5,3.5,4,0.25,0.29237182745430323,14.6,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,
+7,0.9,122.5,7.0,5,0.0,0.5402972688298817,19.68,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,865.0
+114,0.79,147.0,7.0,4,0.1,1.4863251831094844,36.97,Seaside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,647.0
+127,0.71,220.5,3.5,5,0.1,4.321689053557508,10.68,Countryside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,
+58,0.86,147.0,7.0,4,0.1,-0.01358445763509053,26.37,Seaside,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+290,0.98,110.25,7.0,4,0.25,1.870885349226659,28.37,City,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+625,0.98,110.25,7.0,3,0.4,2.3677284229006963,32.69,Countryside,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+47,0.62,220.5,3.5,5,0.0,-0.15557629082208038,8.5,Seaside,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
+371,0.69,220.5,3.5,5,0.25,2.4054500334288402,12.95,Countryside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+254,0.82,147.0,7.0,4,0.1,5.48296715408082,22.89,City,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
+422,0.66,220.5,3.5,4,0.25,1.5557542030864442,12.74,Seaside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,365.0
+69,0.76,122.5,7.0,3,0.1,-1.9574322375241713,32.12,Seaside,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,763.0
+300,0.82,147.0,7.0,2,0.25,1.1424259786377315,26.84,Countryside,Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+406,0.76,122.5,7.0,4,0.25,4.373217207878296,35.64,Mountain,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,993.0
+104,0.86,147.0,7.0,2,0.1,2.840700349051381,26.48,City,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,353.0
+615,0.66,220.5,3.5,5,0.4,2.857957248386022,15.3,Lakeside,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+113,0.79,147.0,7.0,3,0.1,0.5076760045956128,37.26,City,Average Surface Area,The wall colour is violet and the area is 343.0 meter squared.,1007.0
+188,0.62,220.5,3.5,2,0.1,3.4484456697081898,12.68,Lakeside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,115.0
+352,0.79,147.0,7.0,2,0.25,2.0791524666854824,38.57,Countryside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,89.0
+746,0.74,220.5,3.5,4,0.4,4.652874189625843,14.17,City,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
+262,0.76,122.5,7.0,4,0.1,3.3284137067428703,32.46,Mountain,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
+266,0.74,220.5,3.5,4,0.1,4.534698859380272,10.34,Countryside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
+408,0.74,220.5,3.5,2,0.25,2.1505614997841977,11.8,Countryside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,175.0
+585,0.86,147.0,7.0,3,0.4,2.9160318359480586,32.74,City,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+593,0.79,147.0,7.0,3,0.4,2.0534462196218266,43.1,Countryside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+265,0.74,220.5,3.5,3,0.1,4.4657198387023955,10.37,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,445.0
+228,0.66,220.5,3.5,2,0.1,3.2033975242625687,11.44,City,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+279,0.66,220.5,3.5,5,0.1,5.062702555682912,11.34,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,293.0
+741,0.76,122.5,7.0,3,0.4,6.12954030665038,39.72,Lakeside,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
+560,0.69,220.5,3.5,2,0.4,0.799307577378922,14.51,City,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+246,0.9,122.5,7.0,4,0.1,4.248875935702237,28.03,City,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,695.0
+367,0.71,220.5,3.5,5,0.25,4.146127459906191,12.49,Lakeside,High Surface Area,The wall colour is orange and the area is 269.5 meter squared.,
+606,0.71,220.5,3.5,4,0.4,3.0692930447593887,14.4,Lakeside,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
+568,0.64,220.5,3.5,2,0.4,1.850288874569588,19.52,City,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+730,0.86,147.0,7.0,4,0.4,4.589433782255866,31.12,Countryside,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+200,0.86,147.0,7.0,2,0.1,3.561327289518832,26.44,Lakeside,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
+297,0.86,147.0,7.0,3,0.25,-1.7146726138702761,30.05,Countryside,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+495,0.82,147.0,7.0,5,0.25,6.826768421768767,25.49,Countryside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,479.0
+628,0.9,122.5,7.0,2,0.4,3.116853313132768,34.24,Seaside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+354,0.79,147.0,7.0,4,0.25,1.3257827692395825,39.97,Countryside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,667.0
+720,0.98,110.25,7.0,2,0.4,6.172220140250343,32.84,Seaside,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+93,0.62,220.5,3.5,3,0.1,1.3277413808699658,12.97,City,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
+182,0.66,220.5,3.5,4,0.1,1.0592924039045084,11.53,Lakeside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,191.0
+665,0.64,220.5,3.5,3,0.4,3.6798205476846055,18.71,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+453,0.76,122.5,7.0,3,0.25,4.413165974592203,36.45,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
+446,0.82,147.0,7.0,4,0.25,3.6059615878953006,25.43,City,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+617,0.64,220.5,3.5,3,0.4,2.155786144149602,18.88,Countryside,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+315,0.74,220.5,3.5,5,0.25,0.28958482199753477,12.45,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
+252,0.82,147.0,7.0,2,0.1,4.930737070567397,24.37,Seaside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,567.0
+678,0.9,122.5,7.0,4,0.4,3.0955375629850677,35.4,Seaside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+308,0.76,122.5,7.0,2,0.25,0.8580082506669244,36.96,Lakeside,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,411.0
+305,0.79,147.0,7.0,3,0.25,-0.6437932374916511,40.03,Countryside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,987.0
+753,0.69,220.5,3.5,3,0.4,6.305914963227403,14.28,Mountain,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+152,0.86,147.0,7.0,2,0.1,3.6205969891062892,25.41,Lakeside,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,781.0
+400,0.79,147.0,7.0,2,0.25,3.556308949137717,39.04,City,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,749.0
+632,0.86,147.0,7.0,2,0.4,2.3786662865619617,31.28,Seaside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+366,0.71,220.5,3.5,4,0.25,2.4196815231215454,12.2,Countryside,High Surface Area,The wall colour is orange and the area is 269.5 meter squared.,
+764,0.62,220.5,3.5,2,0.4,4.777225944457993,16.54,Countryside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
+577,0.98,110.25,7.0,3,0.4,2.452016344166,32.71,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
+594,0.79,147.0,7.0,4,0.4,3.732550183381959,42.74,Countryside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
+197,0.9,122.5,7.0,3,0.1,3.709256803042382,28.05,Seaside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+603,0.74,220.5,3.5,5,0.4,1.0012652273812885,14.5,Lakeside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
+497,0.79,147.0,7.0,3,0.25,4.550947446409966,39.83,Lakeside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,101.0
+376,0.64,220.5,3.5,2,0.25,0.975741125023158,17.14,Countryside,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,855.0
+402,0.79,147.0,7.0,4,0.25,3.1744100327052314,39.81,Countryside,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,117.0
+311,0.76,122.5,7.0,5,0.25,1.48244366227683,36.43,Countryside,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
+572,0.62,220.5,3.5,2,0.4,0.8352585988904537,15.09,Countryside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
+134,0.66,220.5,3.5,4,0.1,0.7460176194774868,11.33,Seaside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,81.0
+544,0.79,147.0,7.0,2,0.4,2.272983342249074,41.4,City,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+581,0.9,122.5,7.0,3,0.4,1.9390948326449788,36.57,Countryside,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+4,0.9,122.5,7.0,2,0.0,0.2821093257715091,20.84,City,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,877.0
+79,0.71,220.5,3.5,5,0.1,0.2178282905997937,10.75,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,109.0
+71,0.76,122.5,7.0,5,0.1,1.9445801951056145,32.21,Mountain,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,53.0
+655,0.71,220.5,3.5,5,0.4,2.337468567952846,13.86,Countryside,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
+420,0.66,220.5,3.5,2,0.25,4.4450547295415905,12.97,Seaside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,519.0
+466,0.69,220.5,3.5,4,0.25,4.755186840576062,12.67,City,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,563.0
+739,0.79,147.0,7.0,5,0.4,3.5636097654381347,40.79,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+754,0.69,220.5,3.5,4,0.4,6.928724392031989,14.37,Countryside,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+231,0.66,220.5,3.5,5,0.1,6.045632243391883,11.43,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,281.0
+345,0.86,147.0,7.0,3,0.25,4.4291566720725015,29.87,Countryside,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,45.0
+396,0.82,147.0,7.0,2,0.25,4.608609974367517,24.7,Countryside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+67,0.79,147.0,7.0,5,0.1,1.6223693154304664,35.94,Seaside,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
+393,0.86,147.0,7.0,3,0.25,3.571769437010901,29.4,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+542,0.82,147.0,7.0,4,0.4,1.5789727257990287,29.53,City,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+178,0.69,220.5,3.5,4,0.1,1.7085927276356216,11.1,City,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,841.0
+186,0.64,220.5,3.5,4,0.1,2.068643864220013,15.12,Seaside,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,941.0
+490,0.86,147.0,7.0,4,0.25,5.880160504938606,28.31,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+607,0.71,220.5,3.5,5,0.4,1.8797470274369903,14.71,Countryside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,
+337,0.98,110.25,7.0,3,0.25,1.2261044958956187,28.57,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,513.0
+515,0.69,220.5,3.5,5,0.25,4.221127050282312,12.47,City,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+150,0.9,122.5,7.0,4,0.1,3.580713168780126,29.62,Lakeside,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
+410,0.74,220.5,3.5,4,0.25,1.7555125912464196,11.98,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,389.0
+381,0.62,220.5,3.5,3,0.25,1.9912578806624428,14.66,Countryside,Very High Surface Area,The wall colour is white and the area is 367.5 meter squared.,
+535,0.9,122.5,7.0,5,0.4,1.2318525003083465,35.96,City,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+728,0.86,147.0,7.0,2,0.4,6.165411699435394,32.31,Seaside,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+502,0.76,122.5,7.0,4,0.25,5.851537584873514,36.06,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
+601,0.74,220.5,3.5,3,0.4,1.9127146919184828,14.45,City,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
+39,0.66,220.5,3.5,5,0.0,-0.8078062613893833,7.1,City,Very High Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+667,0.64,220.5,3.5,5,0.4,3.0227488186065568,18.46,City,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
+214,0.76,122.5,7.0,4,0.1,4.333935110825611,33.09,Seaside,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
+161,0.79,147.0,7.0,3,0.1,2.3448103050363285,35.48,Countryside,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
+313,0.74,220.5,3.5,3,0.25,0.5373402153152089,12.5,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,
+658,0.69,220.5,3.5,4,0.4,1.8136714894079358,14.33,Mountain,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+700,0.71,220.5,3.5,2,0.4,2.9008413629101817,14.6,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
+443,0.86,147.0,7.0,5,0.25,4.915952125300986,29.88,Seaside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,849.0
+247,0.9,122.5,7.0,5,0.1,6.601998842791181,29.02,City,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,691.0
+372,0.66,220.5,3.5,2,0.25,3.0998779374234626,13.05,Seaside,Very High Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+172,0.71,220.5,3.5,2,0.1,2.5242755582298924,10.77,Countryside,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,377.0
+6,0.9,122.5,7.0,4,0.0,0.30098160612635816,20.71,Lakeside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+264,0.74,220.5,3.5,2,0.1,3.9097470124501457,10.47,Countryside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,215.0
+719,0.62,220.5,3.5,5,0.4,4.020477585056427,16.77,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
+128,0.69,220.5,3.5,2,0.1,3.5829532289360486,11.45,City,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+407,0.76,122.5,7.0,5,0.25,5.272946363902325,36.52,Mountain,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,
+463,0.71,220.5,3.5,5,0.25,1.8426611212470534,12.28,Countryside,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,
+105,0.86,147.0,7.0,3,0.1,0.9340109035840694,27.02,Mountain,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,387.0
+174,0.71,220.5,3.5,4,0.1,4.249072252518847,10.68,Countryside,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,
+310,0.76,122.5,7.0,4,0.25,0.19582921270037512,36.91,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
+676,0.9,122.5,7.0,2,0.4,2.4485770702601224,36.45,Mountain,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+767,0.62,220.5,3.5,5,0.4,6.248787150935197,16.64,Countryside,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
+307,0.79,147.0,7.0,5,0.25,0.5963840980215563,39.04,Countryside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+168,0.74,220.5,3.5,2,0.1,3.9769474875021116,10.39,City,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
+546,0.79,147.0,7.0,4,0.4,0.9008824950781693,42.5,Mountain,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+284,0.62,220.5,3.5,2,0.1,3.914943800671407,12.59,Seaside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,649.0
+324,0.66,220.5,3.5,2,0.25,0.9068707176760512,13.17,Seaside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,543.0
+745,0.74,220.5,3.5,3,0.4,5.654092450597725,14.19,Mountain,Average Surface Area,The wall colour is indigo and the area is 245.0 meter squared.,
+598,0.76,122.5,7.0,4,0.4,3.550371501825066,40.57,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
+35,0.69,220.5,3.5,5,0.0,-0.12031623428288654,6.81,Mountain,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,759.0
+159,0.82,147.0,7.0,5,0.1,4.255909037162455,23.87,Seaside,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,189.0
+716,0.62,220.5,3.5,2,0.4,3.4335636474545272,16.44,Countryside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
+273,0.69,220.5,3.5,3,0.1,5.546594373365835,11.14,Mountain,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+136,0.64,220.5,3.5,2,0.1,2.2016821621704583,15.41,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+564,0.66,220.5,3.5,2,0.4,0.9661476522693208,15.23,Countryside,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+602,0.74,220.5,3.5,4,0.4,2.6269077517028254,14.18,Countryside,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,
+431,0.62,220.5,3.5,5,0.25,3.1846616997013855,13.99,Seaside,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,721.0
+587,0.86,147.0,7.0,5,0.4,2.697223222105455,31.64,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+661,0.66,220.5,3.5,3,0.4,3.2590695263334033,15.18,Lakeside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+550,0.76,122.5,7.0,4,0.4,0.3695614503275625,40.71,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
+680,0.86,147.0,7.0,2,0.4,5.220222626481135,32.38,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+268,0.71,220.5,3.5,2,0.1,4.002426064866424,10.78,Countryside,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,883.0
+361,0.74,220.5,3.5,3,0.25,2.6070487826149664,12.45,City,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,589.0
+674,0.98,110.25,7.0,4,0.4,4.487832147636062,32.21,Seaside,Very Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+613,0.66,220.5,3.5,3,0.4,0.844802949733062,15.29,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+399,0.82,147.0,7.0,5,0.25,2.7044678198882695,25.17,Countryside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+437,0.9,122.5,7.0,3,0.25,3.524134448008718,31.69,Seaside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+556,0.71,220.5,3.5,2,0.4,2.3216186504365766,14.51,City,High Surface Area,The wall colour is orange and the area is 269.5 meter squared.,
+751,0.71,220.5,3.5,5,0.4,4.923831431549781,12.42,City,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,
+34,0.69,220.5,3.5,4,0.0,2.080647012122296,6.77,Mountain,High Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+494,0.82,147.0,7.0,4,0.25,4.488589469241791,24.6,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+569,0.64,220.5,3.5,3,0.4,0.531822839882575,19.36,Lakeside,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
+180,0.66,220.5,3.5,2,0.1,2.8424293762952493,11.59,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,869.0
+106,0.86,147.0,7.0,4,0.1,2.3925366802981944,26.33,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,741.0
+25,0.74,220.5,3.5,3,0.0,0.8336489235463559,6.05,City,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,521.0
+462,0.71,220.5,3.5,4,0.25,5.0240439871506295,12.17,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
+63,0.82,147.0,7.0,5,0.1,1.321267299057739,22.58,Countryside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+374,0.66,220.5,3.5,4,0.25,1.1962960065249901,12.77,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,547.0
+151,0.9,122.5,7.0,5,0.1,3.3042207486608697,29.05,Lakeside,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+762,0.64,220.5,3.5,4,0.4,4.49770305471769,18.16,Seaside,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+470,0.66,220.5,3.5,4,0.25,5.239742119463487,12.86,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,703.0
+404,0.76,122.5,7.0,2,0.25,2.335088162083095,35.99,Mountain,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
+232,0.64,220.5,3.5,2,0.1,6.0954101909675185,15.4,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,85.0
+397,0.82,147.0,7.0,3,0.25,2.5926572585354886,25.48,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+659,0.69,220.5,3.5,5,0.4,1.8142993526339743,14.08,Seaside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+648,0.74,220.5,3.5,2,0.4,2.212543309991471,13.97,City,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
+329,0.64,220.5,3.5,3,0.25,1.050201607289617,17.35,Mountain,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
+510,0.71,220.5,3.5,4,0.25,4.49001897979094,12.25,Countryside,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,
+525,0.62,220.5,3.5,3,0.25,5.477479658313992,13.99,Lakeside,Very High Surface Area,The wall colour is blue and the area is 367.5 meter squared.,
+586,0.86,147.0,7.0,4,0.4,3.174734357930305,32.13,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+109,0.82,147.0,7.0,3,0.1,2.170810440037511,24.23,City,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,165.0
+141,0.62,220.5,3.5,3,0.1,0.9192220041538297,13.0,Lakeside,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,301.0
+131,0.69,220.5,3.5,5,0.1,2.184274229448112,11.49,Seaside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+251,0.86,147.0,7.0,5,0.1,4.5449135532717975,26.45,City,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+219,0.74,220.5,3.5,5,0.1,3.9804315371016634,10.14,Countryside,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
+682,0.86,147.0,7.0,4,0.4,4.683869979303783,32.15,Seaside,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+243,0.98,110.25,7.0,5,0.1,5.794416249692524,24.26,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
+1,0.98,110.25,7.0,3,0.0,-0.27490142489105457,15.55,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+153,0.86,147.0,7.0,3,0.1,0.9399410035524984,26.47,Countryside,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,843.0
+359,0.76,122.5,7.0,5,0.25,1.5471368963128933,36.45,Mountain,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,297.0
+496,0.79,147.0,7.0,2,0.25,4.855745435308791,39.89,Countryside,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,1.0
+513,0.69,220.5,3.5,3,0.25,4.696911888631608,12.12,Mountain,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+582,0.9,122.5,7.0,4,0.4,3.0404635141403134,36.06,Seaside,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+146,0.98,110.25,7.0,4,0.1,3.5630909579943673,24.11,City,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,27.0
+241,0.98,110.25,7.0,3,0.1,4.245886992360909,24.33,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+224,0.69,220.5,3.5,2,0.1,5.230892789985154,11.18,Lakeside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+434,0.98,110.25,7.0,4,0.25,5.6419724566452,28.15,Seaside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+157,0.82,147.0,7.0,3,0.1,2.563649420546692,23.84,Seaside,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+357,0.76,122.5,7.0,3,0.25,0.7341581084297759,36.28,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,187.0
+274,0.69,220.5,3.5,4,0.1,6.2094100460318495,11.11,Countryside,High Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,55.0
+33,0.69,220.5,3.5,3,0.0,-1.404141709018787,6.79,Mountain,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,733.0
+623,0.62,220.5,3.5,5,0.4,1.7131287406808589,17.15,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,
+471,0.66,220.5,3.5,5,0.25,4.717272244005432,12.92,City,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+299,0.86,147.0,7.0,5,0.25,1.168791797423484,28.66,Countryside,Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+43,0.64,220.5,3.5,5,0.0,0.5995383165143332,10.56,City,Very High Surface Area,The wall colour is red and the area is 343.0 meter squared.,
+522,0.64,220.5,3.5,4,0.25,4.374460320034404,16.76,City,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
+384,0.98,110.25,7.0,2,0.25,2.443770795159643,28.67,Mountain,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+343,0.9,122.5,7.0,5,0.25,2.620501762484034,31.66,City,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+505,0.74,220.5,3.5,3,0.25,4.6746207529798225,11.67,Countryside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
+204,0.82,147.0,7.0,2,0.1,3.638945285073337,23.8,Lakeside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,9.0
+167,0.76,122.5,7.0,5,0.1,3.091680295504382,33.24,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
+59,0.86,147.0,7.0,5,0.1,0.5797678138658154,25.27,Mountain,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,815.0
+259,0.79,147.0,7.0,5,0.1,5.070906761535613,35.48,Countryside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+555,0.74,220.5,3.5,5,0.4,1.6013058039907373,14.55,City,Average Surface Area,The wall colour is blue and the area is 245.0 meter squared.,
+455,0.76,122.5,7.0,5,0.25,4.548335682329897,36.26,Lakeside,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,321.0
+583,0.9,122.5,7.0,5,0.4,0.7706123558681246,35.69,Seaside,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+242,0.98,110.25,7.0,4,0.1,4.249212001803385,24.03,City,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+349,0.82,147.0,7.0,3,0.25,2.6252910187418315,25.98,City,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+398,0.82,147.0,7.0,4,0.25,2.6600647065846474,25.37,Mountain,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+237,0.62,220.5,3.5,3,0.1,6.123383435575056,13.04,Countryside,Very High Surface Area,The wall colour is white and the area is 367.5 meter squared.,167.0
+428,0.62,220.5,3.5,2,0.25,2.963896490273313,13.91,City,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
+121,0.74,220.5,3.5,3,0.1,0.2646465793231316,10.46,Seaside,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,23.0
+636,0.82,147.0,7.0,2,0.4,4.860312788629136,28.67,Lakeside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+391,0.9,122.5,7.0,5,0.25,2.2883809406538704,32.29,Mountain,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+605,0.71,220.5,3.5,3,0.4,3.3589552300677115,14.66,Lakeside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,
+590,0.82,147.0,7.0,4,0.4,0.8112317889808527,28.64,Seaside,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+681,0.86,147.0,7.0,3,0.4,4.107933377405347,31.66,City,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+198,0.9,122.5,7.0,4,0.1,4.498556884611474,28.86,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+316,0.71,220.5,3.5,2,0.25,-0.9092748498081089,12.57,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
+260,0.76,122.5,7.0,2,0.1,4.208633094581815,32.31,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
+207,0.82,147.0,7.0,5,0.1,5.407221292594018,24.24,City,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+116,0.76,122.5,7.0,2,0.1,0.31496441279476106,33.16,Seaside,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
+40,0.64,220.5,3.5,2,0.0,0.8878001152763078,10.85,Lakeside,Very High Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
+558,0.71,220.5,3.5,4,0.4,1.1805083494705833,14.5,City,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,
+433,0.98,110.25,7.0,3,0.25,3.886587170868232,28.55,Countryside,,The wall colour is yellow and the area is 294.0 meter squared.,
+383,0.62,220.5,3.5,5,0.25,2.06745894944019,14.6,Lakeside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
+91,0.64,220.5,3.5,5,0.1,1.7543065502258472,15.21,Countryside,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
+181,0.66,220.5,3.5,3,0.1,3.6048477395195686,11.6,City,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+330,0.64,220.5,3.5,4,0.25,1.5488295719600038,17.52,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+714,0.64,220.5,3.5,4,0.4,3.517212124658411,19.0,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+430,0.62,220.5,3.5,4,0.25,4.47438557449307,13.95,Countryside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,243.0
+755,0.69,220.5,3.5,5,0.4,4.533454870199666,14.21,City,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+294,0.9,122.5,7.0,4,0.25,2.7029137366659164,32.84,Mountain,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+724,0.9,122.5,7.0,2,0.4,6.082716187558045,35.67,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+171,0.74,220.5,3.5,5,0.1,3.517860477865619,10.38,Countryside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
+392,0.86,147.0,7.0,2,0.25,3.247115239006691,28.4,City,Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,357.0
+193,0.98,110.25,7.0,3,0.1,4.001473726092387,24.23,Lakeside,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,371.0
+703,0.71,220.5,3.5,5,0.4,4.001402762731508,14.66,Seaside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,
+77,0.71,220.5,3.5,3,0.1,0.219071987789337,10.8,Countryside,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,
+695,0.76,122.5,7.0,5,0.4,5.091451146215404,40.11,Lakeside,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
+417,0.69,220.5,3.5,3,0.25,3.439662376108795,12.46,City,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,317.0
+355,0.79,147.0,7.0,5,0.25,2.9054476575617314,38.98,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+225,0.69,220.5,3.5,3,0.1,2.445611181387733,11.22,Countryside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,631.0
+696,0.74,220.5,3.5,2,0.4,3.5515272112457668,14.37,City,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
+239,0.62,220.5,3.5,5,0.1,5.0455861434959886,13.0,City,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
+292,0.9,122.5,7.0,2,0.25,1.7433451242007219,32.68,Lakeside,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,219.0
+209,0.79,147.0,7.0,3,0.1,4.538864640155249,35.89,City,,The wall colour is red and the area is 343.0 meter squared.,655.0
+64,0.79,147.0,7.0,2,0.1,-0.36955372948196263,35.56,Seaside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+100,0.9,122.5,7.0,2,0.1,1.713103493207753,28.88,Seaside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,209.0
+654,0.71,220.5,3.5,4,0.4,2.109806924363712,13.94,Countryside,High Surface Area,The wall colour is violet and the area is 269.5 meter squared.,
+469,0.66,220.5,3.5,3,0.25,4.514678501223941,13.0,Countryside,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+540,0.82,147.0,7.0,2,0.4,1.9220033133900407,29.22,Mountain,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+331,0.64,220.5,3.5,5,0.25,0.7321714420229586,17.37,Mountain,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+475,0.64,220.5,3.5,5,0.25,3.720565961286532,16.62,Mountain,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,311.0
+691,0.79,147.0,7.0,5,0.4,4.4442000909929575,42.96,City,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,
+41,0.64,220.5,3.5,3,0.0,-0.2174474496266529,10.54,Countryside,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,761.0
+369,2.0,220.5,3.5,3,1.9,1.3371409602891973,12.87,Countryside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+580,0.9,122.5,7.0,2,0.4,2.7069590726200468,35.84,Seaside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+183,0.66,220.5,3.5,5,0.1,2.1899403819047536,11.61,Seaside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,63.0
+177,0.69,220.5,3.5,3,0.1,3.7676091857972582,11.16,Lakeside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+614,0.66,220.5,3.5,4,0.4,1.2334288714682704,15.09,Countryside,Very High Surface Area,The wall colour is orange and the area is 318.5 meter squared.,
+710,0.66,220.5,3.5,4,0.4,4.055217884631941,15.09,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+9,0.86,147.0,7.0,3,0.0,0.3778133938400221,19.95,City,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+640,0.79,147.0,7.0,2,0.4,3.0376181058281353,41.26,City,Average Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+731,0.86,147.0,7.0,5,0.4,5.6827599783434986,32.06,Mountain,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+142,0.62,220.5,3.5,4,0.1,2.328326849845779,12.97,Seaside,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,561.0
+650,0.74,220.5,3.5,4,0.4,2.957183219858153,14.1,Countryside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,
+740,0.76,122.5,7.0,2,0.4,4.225494730317276,38.82,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
+261,0.76,122.5,7.0,3,0.1,3.313443967979384,33.21,Seaside,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,671.0
+484,0.9,122.5,7.0,2,0.25,6.541681771284316,33.13,City,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+671,0.62,220.5,3.5,5,0.4,2.6901004130968356,16.74,City,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,
+416,0.69,220.5,3.5,2,0.25,4.194704877414582,12.34,City,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+236,0.62,220.5,3.5,2,0.1,3.94763003103198,12.85,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,995.0
+215,0.76,122.5,7.0,5,0.1,4.307267366738389,32.31,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,359.0
+205,0.82,1792.0,7.0,422,0.1,2.727809036200246,22.8,Seaside,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
+314,0.74,220.5,3.5,4,0.25,1.4025985106536119,12.41,City,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,
+318,0.71,220.5,3.5,4,0.25,-1.1001298073052412,12.57,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,833.0
+742,0.76,122.5,7.0,4,0.4,5.526924461050788,39.31,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,
+234,0.64,220.5,3.5,4,0.1,4.531465351272251,15.32,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+526,0.62,220.5,3.5,4,0.25,7.4081947189215365,14.16,City,Very High Surface Area,The wall colour is indigo and the area is 367.5 meter squared.,471.0
+543,0.82,147.0,7.0,5,0.4,0.8888963654405279,28.65,City,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+450,0.79,147.0,7.0,4,0.25,4.956879824997621,38.33,Seaside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
+641,0.79,147.0,7.0,3,0.4,4.8556067066429005,41.3,Lakeside,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
+248,0.86,147.0,7.0,2,0.1,6.593906116709002,27.03,Mountain,Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+118,0.76,122.5,7.0,4,0.1,1.7685591831221372,33.12,City,Average Surface Area,The wall colour is orange and the area is 416.5 meter squared.,871.0
+401,0.79,147.0,7.0,3,0.25,3.8925941827957993,38.35,City,Average Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+415,0.71,220.5,3.5,5,0.25,3.2905137247580307,12.19,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,13.0
+715,0.64,220.5,3.5,5,0.4,4.199957798324389,18.84,City,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
+514,0.69,220.5,3.5,4,0.25,5.160849636786793,12.18,Countryside,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+448,0.79,147.0,7.0,2,0.25,5.045917126121899,40.0,Seaside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+518,0.66,220.5,3.5,4,0.25,4.702350720305124,12.78,Countryside,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,289.0
+414,0.71,220.5,3.5,4,0.25,5.269394200238484,12.1,City,High Surface Area,The wall colour is yellow and the area is 269.5 meter squared.,505.0
+609,0.69,220.5,3.5,3,0.4,2.788533428806537,14.71,Countryside,High Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+36,0.66,220.5,3.5,2,0.0,0.7597918789688112,7.18,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,953.0
+537,0.86,147.0,7.0,3,0.4,0.14796851659536003,32.39,Countryside,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+85,0.66,220.5,3.5,3,0.1,0.5521562718249811,11.69,City,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,861.0
+668,0.62,220.5,3.5,2,0.4,1.7061631500736059,16.47,City,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
+413,0.71,220.5,3.5,3,0.25,2.3786210542530766,12.28,Countryside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,999.0
+713,0.64,220.5,3.5,3,0.4,3.8378786371708693,19.13,Countryside,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
+283,0.64,220.5,3.5,5,0.1,3.0119759413199505,15.36,Countryside,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+622,0.62,220.5,3.5,4,0.4,1.7963533947757575,17.26,City,Very High Surface Area,The wall colour is red and the area is 367.5 meter squared.,
+425,0.64,220.5,3.5,3,0.25,3.8113570043987717,16.93,Countryside,Very High Surface Area,The wall colour is orange and the area is 343.0 meter squared.,97.0
+218,0.74,220.5,3.5,4,0.1,4.350077115177813,10.07,City,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,363.0
+451,0.79,147.0,7.0,5,0.25,4.7878108551916565,40.12,Countryside,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+516,0.66,220.5,3.5,2,0.25,4.719951293750564,12.93,Lakeside,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+616,0.64,220.5,3.5,2,0.4,2.9750198415441864,19.2,Mountain,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+571,0.64,220.5,3.5,5,0.4,-0.9112238500488186,19.42,City,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+70,0.76,122.5,7.0,4,0.1,0.2595244008765927,32.94,Seaside,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
+565,0.66,220.5,3.5,3,0.4,0.11313855148324525,15.23,City,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+304,0.79,147.0,7.0,2,0.25,-1.5173919907094366,38.67,City,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+483,0.98,110.25,7.0,5,0.25,4.652200383774436,28.61,City,Very Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+133,0.66,220.5,3.5,3,0.1,1.1285261344812632,11.42,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+652,0.71,220.5,3.5,2,0.4,2.992167898453193,14.07,Countryside,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,
+112,0.79,147.0,7.0,2,0.1,1.7377923757808853,35.65,Mountain,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,681.0
+227,0.69,220.5,3.5,5,0.1,4.717044239818696,11.2,Countryside,High Surface Area,The wall colour is orange and the area is 294.0 meter squared.,611.0
+718,0.62,220.5,3.5,4,0.4,5.373516402032319,16.94,Countryside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
+293,0.9,122.5,7.0,3,0.25,1.293054944909258,33.48,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,921.0
+101,0.9,122.5,7.0,3,0.1,0.358825656430811,29.68,Seaside,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+706,0.69,220.5,3.5,4,0.4,2.1126191796566305,14.53,City,High Surface Area,The wall colour is white and the area is 294.0 meter squared.,
+579,0.98,110.25,7.0,5,0.4,1.2278408128073814,32.72,Countryside,Very Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,
+727,0.9,122.5,7.0,5,0.4,6.142871769631357,35.24,Countryside,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+733,0.82,147.0,7.0,3,0.4,6.290102107767856,29.5,City,Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+612,0.66,220.5,3.5,2,0.4,0.7831123591971623,15.34,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,
+328,0.64,220.5,3.5,2,0.25,1.9138659824803588,17.5,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+545,0.79,147.0,7.0,3,0.4,0.7105072256684495,42.62,City,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,
+638,0.82,147.0,7.0,4,0.4,2.135013278808846,29.47,City,Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+278,0.66,220.5,3.5,4,0.1,4.652949036964946,11.22,City,Very High Surface Area,The wall colour is green and the area is 318.5 meter squared.,827.0
+21,0.76,122.5,7.0,3,0.0,0.9972915058695535,173.0,177,Average Surface Area,The wall colour is red and the area is 416.5 meter squared.,777.0
+485,0.9,122.5,7.0,3,0.25,4.505473112743028,32.31,Mountain,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,717.0
+341,0.9,122.5,7.0,3,0.25,2.206153470599429,33.27,City,Very Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
+458,0.74,220.5,3.5,4,0.25,5.130186815843302,12.18,City,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,343.0
+766,0.62,220.5,3.5,4,0.4,6.016935721971645,16.48,Seaside,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,
+647,0.76,122.5,7.0,5,0.4,3.501277404959719,39.68,Lakeside,Average Surface Area,The wall colour is indigo and the area is 416.5 meter squared.,
+532,0.9,122.5,7.0,2,0.4,2.26578884379511,36.47,Lakeside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,263.0
+436,0.9,122.5,7.0,2,0.25,3.404567525536798,32.67,Countryside,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+412,0.71,220.5,3.5,2,0.25,2.69891859750259,12.41,Mountain,High Surface Area,The wall colour is white and the area is 269.5 meter squared.,203.0
+449,0.79,147.0,7.0,3,0.25,6.132671274472496,38.84,Mountain,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,
+499,0.79,147.0,7.0,5,0.25,3.9534149316119462,38.65,Seaside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+163,0.79,147.0,7.0,5,0.1,2.449845598006651,36.7,City,Average Surface Area,The wall colour is indigo and the area is 343.0 meter squared.,349.0
+54,0.9,122.5,7.0,4,0.1,0.9664994262351819,29.14,City,Very Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,403.0
+626,0.98,110.25,7.0,4,0.4,3.365624982405155,32.23,Mountain,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+201,0.86,147.0,7.0,3,0.1,4.070624318616039,25.37,City,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+531,0.98,110.25,7.0,5,0.4,0.9901999159122421,32.53,City,Very Low Surface Area,The wall colour is green and the area is 294.0 meter squared.,517.0
+17,0.79,147.0,7.0,3,0.0,-0.8244922276767248,29.9,Lakeside,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,909.0
+271,0.71,220.5,3.5,5,0.1,4.471088926573144,13.69,Lakeside,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,173.0
+22,0.76,122.5,7.0,4,0.0,-0.12727384057575397,24.77,City,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,669.0
+256,0.79,147.0,7.0,2,0.1,4.086647071124058,37.03,Lakeside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+302,0.82,147.0,7.0,4,0.25,1.8475150565192848,26.97,Countryside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+717,0.62,220.5,3.5,3,0.4,4.545784987004682,16.9,Lakeside,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
+296,0.86,147.0,7.0,2,0.25,1.5667276963524057,29.54,City,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,463.0
+325,0.66,220.5,3.5,3,0.25,-0.16369255451628595,13.18,Seaside,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,11.0
+765,0.62,220.5,3.5,3,0.4,5.525557593954247,16.44,Lakeside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,
+618,0.64,220.5,3.5,4,0.4,2.037449065076357,18.9,Mountain,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+342,0.9,122.5,7.0,4,0.25,2.752759440893945,32.33,City,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+170,0.74,220.5,3.5,4,0.1,2.46491236881334,10.35,City,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,339.0
+711,0.66,220.5,3.5,5,0.4,4.536455751354754,15.3,City,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
+588,0.82,147.0,7.0,2,0.4,3.1601358861167297,28.95,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+75,0.74,220.5,3.5,5,0.1,1.635151089794947,10.39,Mountain,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,
+480,0.98,110.25,7.0,2,0.25,3.7965684133195525,28.69,City,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+519,0.66,220.5,3.5,5,0.25,3.737984861941827,13.02,Mountain,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,893.0
+465,0.69,220.5,3.5,3,0.25,3.093353225144119,12.95,Countryside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,149.0
+679,0.9,122.5,7.0,5,0.4,3.526668151653314,36.57,City,Very Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+165,0.76,122.5,7.0,3,0.1,2.6507274106395546,33.28,Countryside,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
+705,0.69,220.5,3.5,3,0.4,3.149702293430596,14.62,City,High Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
+752,0.69,220.5,3.5,2,0.4,4.518349915070551,14.12,Countryside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+13,0.82,147.0,7.0,3,0.0,-1.5356542853562096,17.41,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+108,0.82,147.0,7.0,2,0.1,2.579968530119805,23.75,Countryside,Low Surface Area,The wall colour is red and the area is 318.5 meter squared.,863.0
+649,0.74,220.5,3.5,3,0.4,2.4721645561026606,14.22,Seaside,Average Surface Area,The wall colour is white and the area is 245.0 meter squared.,
+80,0.69,220.5,3.5,2,0.1,-0.4058051394886111,11.11,Seaside,High Surface Area,The wall colour is green and the area is 294.0 meter squared.,229.0
+591,0.82,147.0,7.0,5,0.4,0.44867209272016284,28.01,Mountain,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+657,0.69,220.5,3.5,3,0.4,4.735566404460814,14.56,Countryside,High Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+688,0.79,147.0,7.0,2,0.4,4.5912004941516456,42.77,Countryside,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+257,0.79,147.0,7.0,3,0.1,4.573690206146669,36.71,Lakeside,Average Surface Area,The wall colour is green and the area is 343.0 meter squared.,253.0
+677,0.9,122.5,7.0,3,0.4,4.320079712551081,35.73,Seaside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+403,0.79,147.0,7.0,5,0.25,3.182493409022312,39.83,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,771.0
+559,0.71,220.5,3.5,5,0.4,0.2751878865762091,14.58,Countryside,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
+554,0.74,220.5,3.5,4,0.4,-0.689339823044911,14.5,Lakeside,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
+199,0.9,122.5,7.0,5,0.1,4.196929508288882,29.79,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+530,0.98,110.25,7.0,4,0.4,3.5012494384936947,32.49,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,659.0
+627,0.98,110.25,7.0,5,0.4,1.514861149618103,32.75,Countryside,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+27,0.74,220.5,3.5,5,0.0,1.1744869568602285,6.04,Seaside,Average Surface Area,The wall colour is red and the area is 245.0 meter squared.,235.0
+253,0.82,147.0,7.0,3,0.1,5.072488380534042,23.89,Countryside,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,891.0
+692,0.76,122.5,7.0,2,0.4,1.8626665756202447,40.68,City,,The wall colour is yellow and the area is 416.5 meter squared.,
+15,0.82,147.0,7.0,5,0.0,1.0165449350444602,15.98,Countryside,Low Surface Area,The wall colour is orange and the area is 318.5 meter squared.,323.0
+473,0.64,220.5,3.5,3,0.25,4.1265794611936695,16.69,Lakeside,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+286,0.62,220.5,3.5,4,0.1,4.540526672900025,12.8,City,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
+486,0.9,122.5,7.0,4,0.88,13.0,31.53,Lakeside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+143,0.62,220.5,3.5,5,0.1,0.5855526738805339,13.04,Countryside,Very High Surface Area,The wall colour is yellow and the area is 367.5 meter squared.,51.0
+16,0.79,147.0,7.0,2,0.0,1.0339638833350278,28.52,Countryside,Average Surface Area,The wall colour is orange and the area is 343.0 meter squared.,795.0
+567,0.66,220.5,3.5,5,0.4,0.17768723207851722,15.23,Countryside,Very High Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+176,0.69,220.5,3.5,2,0.1,3.6991771078987825,11.22,Mountain,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+270,0.71,220.5,3.5,4,0.1,5.635972459577727,10.67,City,High Surface Area,The wall colour is green and the area is 269.5 meter squared.,
+73,0.74,220.5,3.5,3,0.1,1.4949583855456279,10.43,Seaside,Average Surface Area,The wall colour is indigo and the area is 245.0 meter squared.,
+158,0.82,147.0,7.0,4,0.1,3.1846330135071828,24.17,Mountain,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+26,0.74,220.5,3.5,4,0.0,-0.5672178877684496,6.01,City,Average Surface Area,The wall colour is blue and the area is 245.0 meter squared.,245.0
+322,0.69,220.5,3.5,4,0.25,0.1408615029082827,12.73,Lakeside,High Surface Area,The wall colour is violet and the area is 294.0 meter squared.,
+2,0.98,110.25,7.0,4,0.0,-0.13928556164428274,15.55,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+456,0.74,220.5,3.5,2,0.25,4.951179457723515,12.32,Mountain,Average Surface Area,The wall colour is orange and the area is 245.0 meter squared.,813.0
+206,0.82,147.0,7.0,4,0.1,4.039942817406432,23.59,City,Low Surface Area,The wall colour is blue and the area is 318.5 meter squared.,397.0
+155,0.86,147.0,7.0,5,0.1,4.880963035376064,26.46,Countryside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,511.0
+295,0.9,122.5,7.0,5,0.25,-0.10511457035062444,32.0,City,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+124,0.71,220.5,3.5,2,0.1,3.129848363442468,10.64,City,High Surface Area,The wall colour is indigo and the area is 269.5 meter squared.,401.0
+102,0.9,122.5,7.0,4,0.1,-0.014491748872635046,28.83,Countryside,Very Low Surface Area,The wall colour is white and the area is 318.5 meter squared.,477.0
+512,0.69,220.5,3.5,2,0.25,6.360718534335147,12.47,City,High Surface Area,The wall colour is blue and the area is 294.0 meter squared.,619.0
+192,0.98,110.25,7.0,2,0.1,2.7079426980040813,24.38,Mountain,Very Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,679.0
+660,0.66,220.5,3.5,2,0.4,3.5402728012189417,15.16,City,Very High Surface Area,The wall colour is blue and the area is 318.5 meter squared.,
+30,0.71,220.5,3.5,4,0.0,0.36927018060686445,6.37,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,77.0
+51,0.98,110.25,7.0,5,0.1,1.8113496315497422,24.59,City,Very Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+389,0.9,122.5,7.0,3,0.25,3.7355384190162053,32.4,City,Very Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,797.0
+735,0.82,147.0,7.0,5,0.4,4.8952407760657035,29.92,Countryside,Low Surface Area,The wall colour is green and the area is 318.5 meter squared.,
+702,0.71,220.5,3.5,4,0.4,4.109956191134195,14.47,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
+539,0.86,147.0,7.0,5,0.4,-0.0367096732657155,31.29,City,Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,
+277,0.66,220.5,3.5,3,0.1,3.6506623202685935,11.34,Mountain,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,809.0
+84,0.66,220.5,3.5,2,0.1,-0.6408987942595121,11.68,Countryside,Very High Surface Area,The wall colour is white and the area is 318.5 meter squared.,
+20,0.76,122.5,7.0,2,0.0,-0.30418547481793395,24.77,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,95.0
+156,0.82,147.0,7.0,2,0.1,2.7158151064247216,22.93,Seaside,Low Surface Area,The wall colour is indigo and the area is 318.5 meter squared.,
+336,0.98,110.25,7.0,2,0.25,1.9345981879991936,28.67,Lakeside,Very Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,497.0
+523,0.64,220.5,3.5,5,0.25,6.053298028451915,16.92,Seaside,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,693.0
+86,0.66,220.5,3.5,4,0.1,1.1303905620952044,11.7,City,Very High Surface Area,The wall colour is red and the area is 318.5 meter squared.,331.0
+68,0.76,122.5,7.0,2,0.1,1.55524429596073,32.96,Mountain,Average Surface Area,The wall colour is violet and the area is 416.5 meter squared.,
+424,0.64,220.5,3.5,2,0.25,3.8749161599805237,16.83,Lakeside,Very High Surface Area,The wall colour is white and the area is 343.0 meter squared.,413.0
+117,0.76,122.5,7.0,3,0.1,3.810213569697498,32.4,City,Average Surface Area,The wall colour is blue and the area is 416.5 meter squared.,
+388,0.9,122.5,7.0,2,0.25,2.3437917164076083,31.63,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+600,0.74,220.5,3.5,2,0.4,3.3928905866815646,14.54,Lakeside,Average Surface Area,The wall colour is green and the area is 245.0 meter squared.,
+291,0.98,110.25,7.0,5,0.25,1.3921980837737602,28.41,Mountain,Very Low Surface Area,The wall colour is violet and the area is 294.0 meter squared.,939.0
+573,0.62,220.5,3.5,3,0.4,1.5427233327275731,17.17,Countryside,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
+42,0.64,220.5,3.5,4,0.0,-0.9395245163156084,10.77,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,
+334,0.62,220.5,3.5,4,0.25,1.4578639868438896,15.08,City,Very High Surface Area,The wall colour is orange and the area is 367.5 meter squared.,709.0
+729,0.86,147.0,7.0,3,0.4,3.6896669339513393,31.81,Mountain,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,
+631,0.9,122.5,7.0,5,0.4,2.8936905537009556,34.29,Countryside,Very Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+95,0.62,220.5,3.5,5,0.1,0.39453856353303784,13.02,City,Very High Surface Area,The wall colour is green and the area is 367.5 meter squared.,
+643,0.79,147.0,7.0,5,0.4,2.6294362417326433,42.08,City,Average Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+212,0.76,122.5,7.0,2,0.1,2.410364384637192,33.08,City,Average Surface Area,The wall colour is yellow and the area is 416.5 meter squared.,
+763,0.64,220.5,3.5,5,0.4,3.6777976697847157,17.88,City,Very High Surface Area,The wall colour is blue and the area is 343.0 meter squared.,
+353,0.79,147.0,7.0,3,0.25,2.1783647577498377,40.19,Countryside,Average Surface Area,The wall colour is red and the area is 343.0 meter squared.,333.0
+319,0.71,220.5,3.5,5,0.25,-0.9615011334494519,12.63,City,High Surface Area,The wall colour is blue and the area is 269.5 meter squared.,945.0
+179,0.69,220.5,3.5,5,0.1,2.443126162813686,11.14,Lakeside,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,747.0
+639,0.82,147.0,7.0,5,0.4,3.411374184814209,28.91,Countryside,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,
+536,0.86,147.0,7.0,2,0.4,2.0531410051773333,31.89,Countryside,Low Surface Area,The wall colour is white and the area is 294.0 meter squared.,393.0
+712,0.64,220.5,3.5,2,0.4,3.154140359227334,19.06,Mountain,Very High Surface Area,The wall colour is violet and the area is 343.0 meter squared.,
+373,0.66,220.5,3.5,3,0.25,3.0031182958235147,12.93,Countryside,Very High Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,75.0
+435,0.98,110.25,7.0,5,0.25,2.2127703589964103,28.62,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,119.0
+298,0.86,147.0,7.0,4,0.25,0.4555337059845639,29.6,Seaside,Low Surface Area,The wall colour is indigo and the area is 294.0 meter squared.,787.0
+387,0.98,110.25,7.0,5,0.25,2.6785579737661434,28.63,Countryside,Very Low Surface Area,The wall colour is yellow and the area is 294.0 meter squared.,819.0
+280,0.64,220.5,3.5,2,0.1,4.655179595617646,15.16,City,Very High Surface Area,The wall colour is green and the area is 343.0 meter squared.,789.0
+317,0.71,220.5,3.5,3,0.25,-0.6717353163490061,12.65,City,High Surface Area,The wall colour is red and the area is 269.5 meter squared.,
+89,0.64,220.5,3.5,3,0.1,0.36351454339566414,15.2,Mountain,Very High Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,727.0
+442,0.86,147.0,7.0,4,0.25,2.3267575012303485,29.08,Seaside,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,661.0
+479,0.62,220.5,3.5,5,0.25,3.4623834048382016,14.65,Mountain,Very High Surface Area,The wall colour is violet and the area is 367.5 meter squared.,
+491,0.86,147.0,7.0,5,0.25,2.159211869077521,29.39,Seaside,Low Surface Area,The wall colour is blue and the area is 294.0 meter squared.,
+418,0.69,220.5,3.5,4,0.25,4.225949054843302,12.31,City,High Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+57,0.86,147.0,7.0,3,0.1,-0.06082656002407005,26.91,Countryside,Low Surface Area,The wall colour is orange and the area is 294.0 meter squared.,
+549,0.76,122.5,7.0,3,0.4,2.1104099220109553,39.97,City,Average Surface Area,The wall colour is green and the area is 416.5 meter squared.,
+148,0.9,122.5,7.0,2,0.1,3.5087702713492543,28.07,City,Very Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,675.0
+552,0.74,220.5,3.5,2,0.4,1.4944347254563422,14.52,City,Average Surface Area,The wall colour is yellow and the area is 245.0 meter squared.,
+529,0.98,110.25,7.0,3,0.4,0.5421610911140975,32.26,City,Very Low Surface Area,The wall colour is red and the area is 294.0 meter squared.,
+685,0.82,147.0,7.0,3,0.4,3.9277052051546004,28.05,Lakeside,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
+164,0.76,122.5,7.0,2,0.1,4.323308437514428,32.52,City,Average Surface Area,The wall colour is white and the area is 416.5 meter squared.,907.0
+189,0.62,220.5,3.5,3,0.1,3.2450945158277094,12.63,Lakeside,Very High Surface Area,The wall colour is white and the area is 367.5 meter squared.,277.0
+468,0.66,220.5,3.5,2,0.25,3.3092462066252244,12.95,Mountain,,The wall colour is violet and the area is 318.5 meter squared.,
+72,0.74,220.5,3.5,2,0.1,2.0979879987344474,10.36,Countryside,Average Surface Area,The wall colour is violet and the area is 245.0 meter squared.,425.0
+65,0.79,147.0,7.0,3,0.1,0.7868319579844173,37.12,City,Average Surface Area,The wall colour is white and the area is 343.0 meter squared.,
+111,0.82,147.0,7.0,5,0.1,1.8252454029392413,22.79,City,Low Surface Area,The wall colour is yellow and the area is 318.5 meter squared.,345.0
+115,0.79,147.0,7.0,5,0.1,2.3023232546922148,36.03,Seaside,Average Surface Area,The wall colour is yellow and the area is 343.0 meter squared.,663.0
+276,0.66,220.5,3.5,2,0.1,3.4735993736066946,11.38,Countryside,Very High Surface Area,The wall colour is violet and the area is 318.5 meter squared.,17.0
+541,0.82,147.0,7.0,3,0.4,1.7957813982987791,29.91,Seaside,Low Surface Area,The wall colour is violet and the area is 318.5 meter squared.,
