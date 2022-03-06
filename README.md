@@ -11,6 +11,12 @@ Clean csv file for energy taken from https://www.kaggle.com/ahmettezcantekin/beg
 #### make_data_noisy.ipynb: 
 Notebook to prepare the energy.csv dataset for the hackathon (i.e. making the data messy)
 
+#### energy_noisy_test.csv:
+Dataset to give to participants to create end to end ML model - this file is outputted from the make_data_noisy.ipynb
+
+#### energy_noisy_train.csv:
+Dataset to use to test participants solutions - load this data in as unseen data to see how well participants did.
+
 #### CYF-Skeleton-Notebook.ipynb: 
 Notebook to give to participants for participants to try
 
