@@ -22,3 +22,6 @@ Notebook to give to participants for participants to try
 
 #### CYF-SolutionsNotebook.ipynb:
 Solutions notebook to the hackathon (a finalised version of th eskeleton notebook.
+
+
+This code was written by myself and Marcell Orban
